@@ -1,4 +1,4 @@
-﻿1
+1
 00:01:22,886 --> 00:01:27,734
 Witaj Nowy Jorku! Jestem Bobby Rydell
 i cieszę się, że tu jestem.
@@ -1162,7 +1162,7 @@ miło pana słyszeć.
 
 260
 00:22:46,937 --> 00:22:49,558
-Tak, to dlugo...
+Tak, to długo...
 
 261
 00:22:52,143 --> 00:22:53,608
@@ -2609,7 +2609,7 @@ Do kogo to, Włoszku?
 
 584
 00:48:53,472 --> 00:48:58,681
-Droga Dolores... Dziś rano jadłe
+Droga Dolores... Dziś rano jadłem
 stek i jajka. Na śniadanie.
 
 585
@@ -2742,7 +2742,7 @@ ale z dobrą duszą.
 
 613
 00:50:35,200 --> 00:50:37,720
-- Jesteś rochę jak ona.
+- Jesteś trochę jak ona.
 - June?
 
 614
@@ -2825,7 +2825,7 @@ Nie jesteś niezły, jesteś zły.
 631
 00:51:52,364 --> 00:51:55,154
 Chodzi mi o to, że skoro
-inni czarni lubią jaką muzykę
+inni czarni lubią pewien rodzaj muzyki
 
 632
 00:51:55,178 --> 00:51:58,768
@@ -3314,7 +3314,7 @@ Nigdzie!
 
 741
 00:59:50,246 --> 00:59:52,915
-- Gdzie twój pokó∆?
+- Gdzie twój pokój?
 - Tony.
 
 742
@@ -4900,7 +4900,7 @@ Facet, którego mamy zadzwonił do kogo?
 
 1097
 01:29:55,658 --> 01:29:58,576
-A on zadzwonił to Pana?
+A on zadzwonił do Pana?
 
 1098
 01:29:58,856 --> 01:30:02,338
@@ -4962,7 +4962,7 @@ To było upokarzające.
 1111
 01:30:49,188 --> 01:30:53,098
 Co ty pleciesz?
-Bylismy w dupie, ale już nie.
+Byliśmy w dupie, ale już nie.
 
 1112
 01:30:53,291 --> 01:30:55,930
@@ -5039,7 +5039,7 @@ bo nie jestem czarny?
 1128
 01:31:38,916 --> 01:31:41,421
 Gówno wiesz
-o sowich ludziach!
+o swoich ludziach!
 
 1129
 01:31:41,445 --> 01:31:44,095
@@ -6121,7 +6121,7 @@ Tony, szkoda, że nie widziałeś jak Frankie
 
 1372
 02:00:21,543 --> 02:00:25,294
-wspinał się na telwizor.
+wspinał się na telewizor.
 Aż zrobiłam zdjęcie.
 
 1373
@@ -6214,4 +6214,3 @@ mu z listami.
 1392
 02:02:22,400 --> 02:02:26,413
 Tłumaczenie: kolig.
-
