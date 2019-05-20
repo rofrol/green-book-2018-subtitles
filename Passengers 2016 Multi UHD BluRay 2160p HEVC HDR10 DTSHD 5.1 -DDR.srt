@@ -1,0 +1,4422 @@
+1
+00:00:55,012 --> 00:01:04,896
+.:: GrupaHatak.pl ::.
+
+2
+00:01:25,584 --> 00:01:32,091
+Tłumaczenie: kat
+Korekta: Igloo666
+
+3
+00:01:32,882 --> 00:01:36,302
+<i>STATEK MIĘDZYGWIEZDNY AVALON</i>
+
+4
+00:01:37,388 --> 00:01:42,600
+<i>KIERUNEK:</i>
+<i>KOLONIA HOMESTEAD II</i>
+
+5
+00:01:56,990 --> 00:02:00,493
+<i>STATUS: AUTOPILOT</i>
+
+6
+00:02:01,120 --> 00:02:05,498
+<i>STREFA DOWODZENIA</i>
+<i>KOMORY HIBERNACYJNE ZAŁOGI</i>
+
+7
+00:02:06,207 --> 00:02:09,919
+<i>ZAŁOGA: 258</i>
+
+8
+00:02:11,004 --> 00:02:16,384
+<i>PASAŻEROWIE: 5000</i>
+
+9
+00:02:40,116 --> 00:02:42,411
+<i>PRZEKIEROWUJĘ ENERGIĘ</i>
+<i>DO OSŁON...</i>
+
+10
+00:03:04,390 --> 00:03:05,808
+<i>UWAGA, KOLIZJA!</i>
+
+11
+00:03:25,204 --> 00:03:27,914
+<i>NAPRAWA...</i>
+<i>REAKTOR FUZYJNY</i>
+
+12
+00:04:01,281 --> 00:04:03,116
+<i>JAMES PRESTON</i>
+<i>INŻYNIER</i>
+
+13
+00:04:23,095 --> 00:04:25,096
+<i>PASAŻER WYBUDZONY</i>
+
+14
+00:04:25,805 --> 00:04:27,391
+<i>Witaj, James!</i>
+
+15
+00:04:27,807 --> 00:04:30,601
+<i>- Jak się czujesz?</i>
+- Że co?
+
+16
+00:04:30,601 --> 00:04:33,396
+<i>Zdezorientowanie jest</i>
+<i>w pełni normalne.</i>
+
+17
+00:04:33,396 --> 00:04:37,192
+<i>Spędziłeś w stanie hibernacji</i>
+<i>ostatnie 120 lat.</i>
+
+18
+00:04:37,817 --> 00:04:40,194
+- Że co?
+<i>- Spokojnie, James.</i>
+
+19
+00:04:40,778 --> 00:04:42,906
+- Jim.
+<i>- Zgoda.</i>
+
+20
+00:04:43,699 --> 00:04:46,784
+<i>Oddychaj.</i>
+<i>Wszystko będzie dobrze.</i>
+
+21
+00:04:46,994 --> 00:04:50,288
+- Gdzie ja jestem?
+<i>- Jesteś pasażerem na statku Avalon.</i>
+
+22
+00:04:50,413 --> 00:04:54,000
+<i>Pierwszym międzygwiezdnym liniowcu</i>
+<i>Kompanii Homestead.</i>
+
+23
+00:04:54,000 --> 00:04:55,293
+<i>PARAMETRY ŻYCIOWE</i>
+
+24
+00:04:55,293 --> 00:05:01,091
+<i>Podróż z Ziemi do twojego nowego domu,</i>
+<i>kolonii Homestead II, dobiega już końca.</i>
+
+25
+00:05:02,300 --> 00:05:05,012
+<i>To nowy świat.</i>
+<i>Zaczniesz tam od nowa.</i>
+
+26
+00:05:05,095 --> 00:05:08,098
+<i>- Na wszystko wystarczy miejsca.</i>
+- A, tak.
+
+27
+00:05:08,182 --> 00:05:10,516
+<i>Avalon jest</i>
+<i>na ostatniej prostej.</i>
+
+28
+00:05:10,516 --> 00:05:14,980
+<i>Przez cztery miesiące będziesz</i>
+<i>cieszył się luksusowymi warunkami lotu.</i>
+
+29
+00:05:15,105 --> 00:05:17,483
+<i>Jedzenie, zabawa,</i>
+<i>przyjaciele.</i>
+
+30
+00:05:17,815 --> 00:05:20,110
+- Moi przyjaciele?
+<i>- Dokładnie, Jim.</i>
+
+31
+00:05:20,485 --> 00:05:24,906
+<i>Opaska na twoim nadgarstku</i>
+<i>jest kluczem do cudów Avalonu.</i>
+
+32
+00:05:26,115 --> 00:05:30,495
+<i>Jesteś zdrów jak ryba, Jim.</i>
+<i>Odpocznij teraz w swojej kajucie.</i>
+
+33
+00:05:38,420 --> 00:05:42,007
+<i>Możesz doświadczać symptomów</i>
+<i>choroby posthibernacyjnej.</i>
+
+34
+00:05:43,716 --> 00:05:46,720
+<i>Drzwi do twojej kajuty</i>
+<i>zostaną podświetlone.</i>
+
+35
+00:05:49,305 --> 00:05:52,893
+<i>Witaj w kajucie,</i>
+<i>nowym domu aż do czasu lądowania.</i>
+
+36
+00:05:53,101 --> 00:05:57,105
+<i>Następne miesiące przygotują cię</i>
+<i>na pobyt na Homestead II.</i>
+
+37
+00:05:57,480 --> 00:06:00,692
+<i>Poznaj współpasażerów,</i>
+<i>dokształcaj się,</i>
+
+38
+00:06:00,692 --> 00:06:03,112
+<i>zdobywaj wiedzę</i>
+<i>o życiu w kolonii.</i>
+
+39
+00:06:03,194 --> 00:06:05,613
+<i>Przypisano cię do grupy 38.</i>
+
+40
+00:06:05,697 --> 00:06:08,992
+<i>Dla pasażerów uzdolnionych</i>
+<i>technicznie i inżynieryjnie.</i>
+
+41
+00:06:09,117 --> 00:06:12,079
+<i>Przeskanuj ID,</i>
+<i>by potwierdzić odbiór bagażu.</i>
+
+42
+00:06:12,995 --> 00:06:17,709
+<i>Jim, przeskanuj ID,</i>
+<i>by potwierdzić odbiór bagażu.</i>
+
+43
+00:06:21,797 --> 00:06:26,593
+<i>Nawadniaj organizm, by pozbyć się</i>
+<i>nieprzyjemnych skutków hibernacji.</i>
+
+44
+00:06:28,095 --> 00:06:33,891
+<i>Przyjemnej podróży na pokładzie Avalonu,</i>
+<i>statku Kompanii Homestead!</i>
+
+45
+00:06:35,601 --> 00:06:39,689
+<i>Dzień dobry!</i>
+<i>Przepiękny poranek na statku Avalon.</i>
+
+46
+00:06:39,689 --> 00:06:42,483
+<i>Nie tęsknijcie za domem,</i>
+<i>ale za Homestead.</i>
+
+47
+00:06:42,608 --> 00:06:45,987
+<i>Zacznijmy od mojego</i>
+<i>ulubionego kawałka z Ziemi.</i>
+
+48
+00:06:51,701 --> 00:06:53,120
+Nie.
+
+49
+00:06:56,290 --> 00:06:57,790
+Frajersko.
+
+50
+00:07:01,502 --> 00:07:04,505
+Wyluzuj, Jim.
+Ekstra kurtka.
+
+51
+00:07:18,896 --> 00:07:21,189
+<i>Witajcie, pasażerowie.</i>
+
+52
+00:07:21,314 --> 00:07:23,108
+<i>Zajmijcie miejsca, proszę.</i>
+
+53
+00:07:24,610 --> 00:07:27,112
+<i>Witajcie, grupo 38.</i>
+
+54
+00:07:27,196 --> 00:07:30,281
+<i>To kurs wprowadzający</i>
+<i>do życia w kolonii.</i>
+
+55
+00:07:30,699 --> 00:07:34,411
+<i>Ziemia kwitnie w dobrobycie.</i>
+<i>To kolebka cywilizacji.</i>
+
+56
+00:07:34,911 --> 00:07:40,417
+<i>Wielu sądzi jednak, że jest przeludniona,</i>
+<i>zbyt droga i przereklamowana.</i>
+
+57
+00:07:40,500 --> 00:07:44,504
+- Przepraszam, chyba jestem w złej...
+<i>- Pytania na koniec lekcji.</i>
+
+58
+00:07:44,504 --> 00:07:47,591
+- Przepraszam.
+<i>- Kolonie stanowią alternatywę.</i>
+
+59
+00:07:47,591 --> 00:07:49,593
+<i>- Lepsze życie.</i>
+- Gdzie są inni?
+
+60
+00:07:49,593 --> 00:07:53,596
+<i>Homestead II to najpiękniejsza</i>
+<i>spośród kolonii.</i>
+
+61
+00:07:53,805 --> 00:07:57,393
+<i>- Klejnot w koronie Zamieszkanych Światów.</i>
+- Jasne.
+
+62
+00:07:57,393 --> 00:08:00,896
+- Ale gdzie jest reszta?
+<i>- Znajdujemy się na statku Avalon.</i>
+
+63
+00:08:01,187 --> 00:08:02,480
+Jestem tu sam.
+
+64
+00:08:02,605 --> 00:08:06,694
+<i>Mamy 5000 pasażerów</i>
+<i>oraz 258 członków załogi.</i>
+
+65
+00:08:07,194 --> 00:08:10,697
+- Dlaczego jestem sam?
+<i>- To nasze wspólne przedsięwzięcie.</i>
+
+66
+00:08:15,911 --> 00:08:17,579
+Jest tu ktoś?
+
+67
+00:08:30,091 --> 00:08:33,220
+<i>Proszę się przypiąć</i>
+<i>i zabezpieczyć.</i>
+
+68
+00:08:33,220 --> 00:08:37,182
+<i>Grawitacja w tej windzie</i>
+<i>może nie funkcjonować prawidłowo.</i>
+
+69
+00:08:59,996 --> 00:09:03,000
+<i>Wielka Hala.</i>
+
+70
+00:09:15,511 --> 00:09:20,017
+<i>Witaj w Wielkiej Hali statku Avalon.</i>
+<i>W czym mogę pomóc?</i>
+
+71
+00:09:21,100 --> 00:09:24,605
+Chcę porozmawiać z inną osobą.
+Żywą.
+
+72
+00:09:24,687 --> 00:09:27,691
+<i>Osobistym trenerem,</i>
+<i>przewodnikiem, terapeutą?</i>
+
+73
+00:09:27,816 --> 00:09:30,110
+Nie wiem.
+Z dowódcą.
+
+74
+00:09:30,193 --> 00:09:34,197
+<i>Takimi sprawami zajmuje się ochmistrz statku.</i>
+<i>Poziom 3. Wielkiej Hali.</i>
+
+75
+00:09:34,405 --> 00:09:35,908
+- Dziękuję.
+<i>- Proszę!</i>
+
+76
+00:09:41,913 --> 00:09:42,998
+Niedobrze.
+
+77
+00:09:43,581 --> 00:09:44,792
+Kto pilotuje statek?
+
+78
+00:09:44,792 --> 00:09:47,001
+<i>Załoga: kapitan,</i>
+<i>pilot, nawigator...</i>
+
+79
+00:09:47,001 --> 00:09:48,711
+To kapitan.
+
+80
+00:09:48,711 --> 00:09:52,591
+<i>- Nie zajmuje się osobiście pasażerami.</i>
+- To bardzo pilne, proszę.
+
+81
+00:09:53,216 --> 00:09:58,096
+<i>Kapitana można znaleźć na mostku.</i>
+<i>Strefa dowodzenia.</i>
+
+82
+00:10:06,813 --> 00:10:10,984
+<i>Dostęp na mostek</i>
+<i>warunkują specjalne uprawnienia.</i>
+
+83
+00:10:11,985 --> 00:10:14,779
+<i>Dostęp na mostek</i>
+<i>warunkują specjalne uprawnienia.</i>
+
+84
+00:10:17,783 --> 00:10:19,784
+To jakieś żarty.
+
+85
+00:10:33,590 --> 00:10:36,217
+<i>Witaj w Obserwatorium.</i>
+
+86
+00:10:37,594 --> 00:10:39,303
+<i>Co mam wyświetlić?</i>
+
+87
+00:10:40,304 --> 00:10:42,599
+Ponoć niedługo
+mamy wylądować.
+
+88
+00:10:45,309 --> 00:10:47,895
+Ale tylko ja
+zostałem wybudzony.
+
+89
+00:10:48,187 --> 00:10:50,606
+<i>Nie rozumiem.</i>
+<i>Co mam wyświetlić?</i>
+
+90
+00:10:52,400 --> 00:10:53,818
+Homestead II.
+
+91
+00:10:53,818 --> 00:10:56,697
+<i>To czwarta planeta</i>
+<i>w Układzie Bhakti.</i>
+
+92
+00:10:57,197 --> 00:10:59,283
+Jasne.
+A my gdzie jesteśmy?
+
+93
+00:10:59,408 --> 00:11:02,619
+<i>W podróży między</i>
+<i>Ziemią a Homestead II.</i>
+
+94
+00:11:02,619 --> 00:11:05,998
+<i>- Dolecimy za około 90 lat.</i>
+- Że co?
+
+95
+00:11:06,081 --> 00:11:10,001
+<i>Za 90 lat,</i>
+<i>trzy tygodnie i jeden dzień.</i>
+
+96
+00:11:10,001 --> 00:11:12,712
+Nie, czekaj.
+Kiedy wylecieliśmy z Ziemi?
+
+97
+00:11:12,879 --> 00:11:15,883
+<i>Około 30 lat temu.</i>
+
+98
+00:11:19,510 --> 00:11:21,804
+Za wcześnie się obudziłem.
+
+99
+00:11:24,015 --> 00:11:26,684
+<i>- Witaj.</i>
+- Jak wysłać wiadomość na Ziemię?
+
+100
+00:11:26,809 --> 00:11:31,105
+<i>Przekaźnikiem laserowym.</i>
+<i>Usługa jest droga.</i>
+
+101
+00:11:31,190 --> 00:11:32,816
+- Spadaj.
+<i>- Proszę!</i>
+
+102
+00:11:35,610 --> 00:11:38,905
+<i>- Planeta i dane?</i>
+- Ziemia, Kompania Homestead.
+
+103
+00:11:38,989 --> 00:11:43,201
+<i>Pod tą nazwą zapisano</i>
+<i>30826 kontaktów.</i>
+
+104
+00:11:43,994 --> 00:11:46,913
+Lecę na Homestead II.
+Zdarzył się wypadek.
+
+105
+00:11:46,996 --> 00:11:49,792
+<i>- Biuro Obsługi Klienta.</i>
+- Świetnie.
+
+106
+00:11:49,917 --> 00:11:51,501
+<i>Rozpocznij wiadomość.</i>
+
+107
+00:11:52,086 --> 00:11:55,004
+Witam, nazywam się
+Jim Preston.
+
+108
+00:11:55,505 --> 00:11:59,092
+Jestem pasażerem na Avalonie i...
+
+109
+00:12:02,303 --> 00:12:05,014
+Chyba coś jest nie tak
+z moją komorą hibernacyjną.
+
+110
+00:12:05,014 --> 00:12:10,104
+<i>Obudziłem się za wcześnie.</i>
+<i>I to o wiele.</i>
+
+111
+00:12:10,395 --> 00:12:13,190
+<i>Nikt inny się nie wybudził.</i>
+
+112
+00:12:13,606 --> 00:12:15,484
+<i>Nie wiem,</i>
+<i>jak się zahibernować.</i>
+
+113
+00:12:15,609 --> 00:12:18,778
+<i>Rzecz w tym,</i>
+że zostało 90 lat lotu.
+
+114
+00:12:21,990 --> 00:12:24,618
+A w tym tempie...
+
+115
+00:12:28,080 --> 00:12:30,499
+Przepraszam,
+próbuję coś z tym zrobić.
+
+116
+00:12:30,581 --> 00:12:33,293
+Może coś przeoczyłem.
+Przydałaby się pomoc.
+
+117
+00:12:34,211 --> 00:12:37,297
+I to wszystko.
+Dziękuję bardzo.
+
+118
+00:12:38,881 --> 00:12:40,801
+<i>Wiadomość wysłano.</i>
+
+119
+00:12:42,510 --> 00:12:43,511
+Świetnie.
+
+120
+00:12:43,511 --> 00:12:47,015
+<i>- Wiadomość dotrze za 19 lat.</i>
+- Że co?!
+
+121
+00:12:47,099 --> 00:12:51,687
+<i>- Odpowiedź najwcześniej za 55 lat.</i>
+- Ile?
+
+122
+00:12:52,104 --> 00:12:54,313
+<i>Przepraszamy za opóźnienia.</i>
+
+123
+00:12:54,398 --> 00:12:56,899
+<i>Koszt usługi:</i>
+<i>6012 dolarów.</i>
+
+124
+00:13:10,913 --> 00:13:12,582
+- Witam pana.
+- Rany!
+
+125
+00:13:12,791 --> 00:13:16,711
+Miło w końcu kogoś zobaczyć.
+Sądziłem, że tylko ja nie śpię.
+
+126
+00:13:16,879 --> 00:13:20,006
+A kto by chciał przespać
+taki piękny dzień?
+
+127
+00:13:20,006 --> 00:13:23,217
+Mamy kłopoty.
+Nie powinno nas tu być.
+
+128
+00:13:23,302 --> 00:13:25,386
+Nikomu nie powiem
+ani słowa.
+
+129
+00:13:26,388 --> 00:13:28,682
+Niech to będzie
+nasza tajemnica.
+
+130
+00:13:29,390 --> 00:13:31,894
+- Co mam nalać?
+- Słucham?
+
+131
+00:13:32,186 --> 00:13:35,480
+- Wygląda pan na wielbiciela whiskey.
+- Jasne.
+
+132
+00:13:39,610 --> 00:13:41,820
+Ech, jesteś robotem.
+
+133
+00:13:42,904 --> 00:13:46,408
+Tak technicznie to androidem.
+
+134
+00:13:47,408 --> 00:13:50,120
+- A na imię mi Arthur.
+- Jim.
+
+135
+00:13:50,120 --> 00:13:51,913
+Bardzo mi miło.
+
+136
+00:13:57,919 --> 00:14:01,881
+- Jak dużo wiesz o tym statku?
+- Pojęcia nie mam.
+
+137
+00:14:01,881 --> 00:14:05,094
+- Coś tam wiem.
+- Co robić przy awarii komory?
+
+138
+00:14:05,302 --> 00:14:09,097
+Komory są odporne na awarie.
+Nigdy im się nie przytrafiają.
+
+139
+00:14:09,181 --> 00:14:12,017
+- Obudziłem się zbyt wcześnie.
+- Nie ma mowy.
+
+140
+00:14:12,684 --> 00:14:16,312
+- Ile jeszcze na Homestead II?
+- Jakieś 90 lat.
+
+141
+00:14:16,397 --> 00:14:21,485
+- Kiedy pasażerowie powinni się wybudzić?
+- Kiedy zostaną cztery miesiące.
+
+142
+00:14:21,485 --> 00:14:25,780
+Dlaczego więc siedzę tu,
+gdy przed nami jest 90 lat?
+
+143
+00:14:30,201 --> 00:14:32,495
+To niemożliwe.
+
+144
+00:14:34,581 --> 00:14:36,792
+A jednak tu jestem.
+
+145
+00:14:41,004 --> 00:14:43,798
+<i>Dzień dobry!</i>
+<i>Przepiękny poranek na statku Avalon.</i>
+
+146
+00:14:43,798 --> 00:14:46,884
+<i>Czas wstawać</i>
+<i>i rozkoszować się naszym rejsem.</i>
+
+147
+00:14:57,980 --> 00:14:59,898
+<i>Proszę dokonać wyboru.</i>
+
+148
+00:15:01,482 --> 00:15:08,615
+<i>Niestety, Mocha Cappuccino Extreme</i>
+<i>dostępna tylko dla klasy złotej.</i>
+
+149
+00:15:08,698 --> 00:15:10,783
+Proszę doliczyć mi ją
+do rachunku.
+
+150
+00:15:10,908 --> 00:15:12,702
+<i>Jedzenie można nabyć w...</i>
+
+151
+00:15:12,702 --> 00:15:14,203
+<i>Niestety, French Roast...</i>
+
+152
+00:15:14,288 --> 00:15:16,206
+<i>Niestety, Pumpkin Spice...</i>
+
+153
+00:15:16,206 --> 00:15:18,792
+<i>Niestety, Vanilla Chai...</i>
+<i>Niestety...</i>
+
+154
+00:15:19,918 --> 00:15:21,086
+<i>DUŻA KAWA</i>
+
+155
+00:15:21,211 --> 00:15:23,880
+- Z cukrem i mle...
+<i>- Zapraszamy na kawę.</i>
+
+156
+00:15:24,380 --> 00:15:25,591
+Poważnie?
+
+157
+00:15:35,183 --> 00:15:37,394
+<i>KOMORA MEDYCZNA</i>
+
+158
+00:15:37,894 --> 00:15:39,312
+<i>BARMAN</i>
+
+159
+00:15:39,605 --> 00:15:42,691
+<i>KOMORA HIBERNACYJNA</i>
+
+160
+00:16:46,587 --> 00:16:51,092
+<i>Dostęp do komór załogi</i>
+<i>warunkują specjalne uprawnienia.</i>
+
+161
+00:17:29,714 --> 00:17:32,509
+<i>AWARIA TRANSPORTU</i>
+<i>KRYTYCZNY BŁĄD WINDY 2B</i>
+
+162
+00:17:37,096 --> 00:17:39,182
+<i>Proszę...</i>
+<i>Poziom...</i>
+
+163
+00:17:40,601 --> 00:17:42,394
+<i>Wielka Hala.</i>
+
+164
+00:17:42,394 --> 00:17:45,980
+<i>Przewalone, Arthurze.</i>
+Mam totalnie przewalone.
+
+165
+00:17:46,190 --> 00:17:49,609
+Daj spokój.
+Zawsze są jakieś pozytywy.
+
+166
+00:17:51,819 --> 00:17:56,282
+- Umrę ze starości na luksusowym statku.
+- Wszyscy umrzemy.
+
+167
+00:17:56,909 --> 00:17:59,619
+Nawet androidy
+trafiają na złomowisko.
+
+168
+00:17:59,912 --> 00:18:03,289
+Jestem twoim jedynym klientem.
+Po co wycierasz szklanki?
+
+169
+00:18:03,289 --> 00:18:05,000
+Tak trzeba robić.
+
+170
+00:18:05,000 --> 00:18:07,711
+Ludzi denerwuje,
+jeśli barman się nie rusza.
+
+171
+00:18:07,795 --> 00:18:12,007
+Oświeć mnie jakąś barmańską mądrością.
+Zagubiłem się w kosmosie.
+
+172
+00:18:13,299 --> 00:18:15,885
+Nie jesteś tam,
+gdzie chciałbyś być.
+
+173
+00:18:16,095 --> 00:18:19,013
+Czujesz, że powinieneś
+być gdzieś indziej.
+
+174
+00:18:23,018 --> 00:18:24,603
+- Dokładnie.
+- No cóż.
+
+175
+00:18:24,603 --> 00:18:28,481
+Gdybyś pomyślał życzenie
+i znalazł się gdzieś indziej,
+
+176
+00:18:28,606 --> 00:18:32,318
+zapewne nadal byś się tak czuł:
+w złym miejscu.
+
+177
+00:18:32,318 --> 00:18:35,989
+Tak bardzo skupiasz się na tym,
+gdzie wolałbyś być,
+
+178
+00:18:36,115 --> 00:18:38,991
+że nie korzystasz z uroków miejsca,
+w którym jesteś.
+
+179
+00:18:38,991 --> 00:18:40,493
+To znaczy?
+
+180
+00:18:40,493 --> 00:18:44,288
+Przestań zamartwiać się
+sprawami poza twoją kontrolą.
+
+181
+00:18:45,582 --> 00:18:49,211
+- Żyj pełnią życia.
+- Pełnią?
+
+182
+00:18:58,302 --> 00:19:01,515
+<i>Witaj w apartamencie wiedeńskim.</i>
+
+183
+00:19:02,098 --> 00:19:03,683
+Tak jest.
+
+184
+00:19:08,313 --> 00:19:09,897
+Że co?
+
+185
+00:19:19,615 --> 00:19:22,118
+Z podwójnymi krewetkami.
+Potrójnymi.
+
+186
+00:19:22,201 --> 00:19:24,496
+Arigatou gozaimasu.
+
+187
+00:19:24,788 --> 00:19:25,913
+Phantom.
+
+188
+00:19:28,208 --> 00:19:30,001
+No dobra.
+
+189
+00:19:31,420 --> 00:19:33,588
+Przecież zrobiłem to samo!
+
+190
+00:19:37,384 --> 00:19:38,384
+<i>WYBIERZ</i>
+
+191
+00:19:38,509 --> 00:19:40,304
+<i>Duża kawa.</i>
+
+192
+00:19:44,307 --> 00:19:48,394
+- Uno mas margarita, por favor.
+- Wypił pan już wiele, senor.
+
+193
+00:19:48,394 --> 00:19:51,481
+No Hector,
+jeszcze jedną, por favor...
+
+194
+00:19:53,608 --> 00:19:54,692
+Dzięki!
+
+195
+00:20:06,579 --> 00:20:08,582
+Wyjazd mi stąd!
+
+196
+00:20:10,084 --> 00:20:11,417
+Nie, wracajcie.
+
+197
+00:20:14,003 --> 00:20:15,088
+Do nogi.
+
+198
+00:20:46,619 --> 00:20:48,204
+Szlag by to!
+
+199
+00:21:10,810 --> 00:21:12,479
+<i>Witaj, Jim.</i>
+
+200
+00:21:13,980 --> 00:21:18,402
+<i>Zerknij na wyświetlone wskazówki</i>
+<i>dotyczące bezpieczeństwa.</i>
+
+201
+00:21:18,402 --> 00:21:22,489
+<i>Skafandry zaprojektowano tak,</i>
+<i>by wytrzymały pobyt w próżni.</i>
+
+202
+00:21:22,614 --> 00:21:25,491
+<i>Włókno węglowe i pancerz...</i>
+
+203
+00:21:40,883 --> 00:21:43,885
+<i>Pamiętaj, że skafander</i>
+<i>utrzymuje cię przy życiu.</i>
+
+204
+00:21:53,019 --> 00:21:56,815
+<i>Przesuń dźwignię z prawej strony,</i>
+<i>by uruchomić cyrkulację.</i>
+
+205
+00:21:58,107 --> 00:22:00,109
+<i>Uruchomiono buty magnetyczne.</i>
+
+206
+00:22:00,402 --> 00:22:03,696
+<i>Można je wyłączyć</i>
+<i>za pomocą panelu na ramieniu.</i>
+
+207
+00:22:03,989 --> 00:22:06,407
+<i>Wciśnij przycisk,</i>
+<i>by otworzyć śluzę.</i>
+
+208
+00:22:10,287 --> 00:22:12,080
+<i>Miłego spaceru!</i>
+
+209
+00:22:19,797 --> 00:22:22,090
+<i>Skafander został przywiązany.</i>
+
+210
+00:22:56,791 --> 00:22:58,711
+<i>ODBEZPIECZYĆ MAGNESY?</i>
+
+211
+00:23:49,094 --> 00:23:51,012
+<i>Witaj z powrotem, Jim.</i>
+
+212
+00:23:54,182 --> 00:23:58,895
+<i>Mamy nadzieję, że ponownie</i>
+<i>zdecydujesz się na ekscytującą wycieczkę.</i>
+
+213
+00:24:22,795 --> 00:24:24,712
+<i>Miłego spaceru!</i>
+
+214
+00:25:34,782 --> 00:25:36,492
+<i>AURORA LANE</i>
+
+215
+00:25:45,419 --> 00:25:47,086
+Aurora.
+
+216
+00:25:48,588 --> 00:25:51,090
+<i>Przeszukuję profile pasażerów...</i>
+
+217
+00:25:51,215 --> 00:25:54,886
+<i>Jestem Aurora Lane.</i>
+<i>Pasażerka 1456.</i>
+
+218
+00:25:54,886 --> 00:25:55,887
+<i>Pisarka.</i>
+
+219
+00:25:56,305 --> 00:25:59,516
+<i>Opowiadamy historie,</i>
+<i>by upewnić się, że nie jesteśmy sami.</i>
+
+220
+00:25:59,599 --> 00:26:00,808
+<i>Sięgnąć do innych.</i>
+
+221
+00:26:00,808 --> 00:26:04,104
+<i>Pani ojcem był Oliver Lane,</i>
+<i>laureat nagrody Pulitzera.</i>
+
+222
+00:26:04,188 --> 00:26:05,480
+<i>Te oczekiwania.</i>
+
+223
+00:26:05,480 --> 00:26:07,316
+<i>Mój tata mawiał:</i>
+
+224
+00:26:07,482 --> 00:26:11,319
+<i>"Jeśli prowadzisz szare życie,</i>
+<i>twoje opowieści też będą szare.</i>
+
+225
+00:26:11,319 --> 00:26:13,780
+<i>Prowadź życie pełne przygód! ".</i>
+
+226
+00:26:14,906 --> 00:26:17,701
+<i>Zatem... jestem tutaj.</i>
+
+227
+00:26:24,708 --> 00:26:26,501
+Dzień dobry.
+
+228
+00:26:28,711 --> 00:26:31,798
+<i>Zaczynamy od początku.</i>
+<i>Wszystko.</i>
+
+229
+00:26:32,508 --> 00:26:36,302
+<i>Nie wiem, jak będę żyć, gdzie,</i>
+<i>kim będą moi przyjaciele.</i>
+
+230
+00:26:36,302 --> 00:26:40,182
+<i>Jak w pierwszy dzień szkoły,</i>
+<i>tylko autobus jedzie tam 120 lat.</i>
+
+231
+00:26:43,309 --> 00:26:45,479
+<i>Stworzymy nową kulturę.</i>
+
+232
+00:26:45,479 --> 00:26:46,689
+Fajna jesteś.
+
+233
+00:26:46,689 --> 00:26:49,982
+Czytałeś książkę, mając wrażenie,
+że autor pisze dla ciebie?
+
+234
+00:26:50,108 --> 00:26:53,403
+- Nie czytuję książek.
+- Ona jest świetna.
+
+235
+00:26:54,613 --> 00:26:57,281
+- Kto taki?
+- Aurora.
+
+236
+00:26:58,991 --> 00:27:00,201
+Śpiąca dziewczyna.
+
+237
+00:27:05,207 --> 00:27:09,294
+Nie twierdzę, że wszechświat jest zły,
+ale ma okrutne poczucie humoru.
+
+238
+00:27:09,294 --> 00:27:10,295
+Jak to?
+
+239
+00:27:10,378 --> 00:27:15,092
+Załapałem się na lot na inną planetę,
+ale umrę po drodze na nią.
+
+240
+00:27:16,384 --> 00:27:22,182
+A tuż obok mnie
+znalazłem kobietę idealną.
+
+241
+00:27:23,182 --> 00:27:25,019
+I nie mogę jej dosięgnąć.
+
+242
+00:27:28,480 --> 00:27:30,691
+<i>Będę tęsknić za Nowym Jorkiem.</i>
+
+243
+00:27:30,691 --> 00:27:34,486
+<i>Kawa, widok na Chrysler Building</i>
+<i>i mogę pisać cały dzień.</i>
+
+244
+00:27:34,611 --> 00:27:36,697
+<i>Na Homestead II będzie kawa?</i>
+
+245
+00:27:36,779 --> 00:27:40,909
+<i>Lepiej, żeby była, bo inaczej</i>
+<i>każę pilotom zawracać na Ziemię.</i>
+
+246
+00:27:41,492 --> 00:27:45,204
+<i>- Żałujesz czegoś, co pozostawiasz?</i>
+<i>- Tak.</i>
+
+247
+00:27:45,204 --> 00:27:48,584
+<i>Będę tęsknić za widokiem drzew</i>
+<i>jesienią w Central Parku.</i>
+
+248
+00:27:48,584 --> 00:27:51,211
+<i>KOMORA HIBERNACYJNA</i>
+
+249
+00:28:00,679 --> 00:28:02,597
+Utknąłeś na bezludnej wyspie.
+
+250
+00:28:03,182 --> 00:28:05,893
+Możesz sprawić,
+że ktoś dołączy tam do ciebie.
+
+251
+00:28:06,018 --> 00:28:08,019
+Nie będziesz sam...
+
+252
+00:28:08,686 --> 00:28:11,105
+ale uwięzisz drugą osobę
+na tej wyspie.
+
+253
+00:28:11,105 --> 00:28:13,608
+Wypowiedziałbyś takie życzenie?
+
+254
+00:28:13,608 --> 00:28:16,111
+Nie wiem.
+Nigdy nie byłem na wyspie.
+
+255
+00:28:16,111 --> 00:28:17,988
+No tak.
+
+256
+00:28:18,989 --> 00:28:20,490
+Kij z wyspą.
+
+257
+00:28:21,115 --> 00:28:27,498
+Wyobraź sobie, że wymyśliłeś sposób
+na ogromną poprawę swojego życia.
+
+258
+00:28:27,498 --> 00:28:30,291
+Niemoralny sposób.
+I nieodwołalny.
+
+259
+00:28:30,416 --> 00:28:33,796
+- Jak postępujesz?
+- Nie pyta się o to robota, Jim.
+
+260
+00:28:40,219 --> 00:28:42,096
+Wiem, jak obudzić Aurorę.
+
+261
+00:28:42,680 --> 00:28:45,598
+Niezły pomysł.
+Przydałoby ci się towarzystwo.
+
+262
+00:28:46,016 --> 00:28:48,394
+Uwięziłbym ją na statku
+do końca życia.
+
+263
+00:28:48,519 --> 00:28:50,813
+No tak.
+Nie możesz tego zrobić.
+
+264
+00:28:52,314 --> 00:28:55,108
+- Co więc mam zrobić?
+- Jestem tu dla ciebie.
+
+265
+00:28:55,108 --> 00:28:56,984
+Jesteś maszyną.
+
+266
+00:29:01,198 --> 00:29:04,785
+Widzisz? Nie czujesz tego.
+Niczego nie czujesz.
+
+267
+00:29:07,203 --> 00:29:09,789
+Rozumiesz?
+Nie boli cię.
+
+268
+00:29:10,207 --> 00:29:12,209
+I w ogóle ci to nie przeszkadza.
+
+269
+00:29:12,710 --> 00:29:15,378
+A ona... jest osobą.
+
+270
+00:29:22,094 --> 00:29:25,013
+Nawet o tym nie myśl!
+Koniec gadania o Aurorze.
+
+271
+00:29:25,305 --> 00:29:28,017
+Wyleczyłem się z tego.
+Będę żył dalej.
+
+272
+00:29:31,103 --> 00:29:32,895
+No i co teraz,
+siedzę i myślę?
+
+273
+00:29:32,895 --> 00:29:35,691
+Nie mogę o tym myśleć,
+nie będę, tyle.
+
+274
+00:29:35,691 --> 00:29:37,608
+Zdecydowałem.
+Wiem, co robię.
+
+275
+00:29:38,484 --> 00:29:39,486
+Koniec.
+
+276
+00:29:41,989 --> 00:29:44,615
+Koniec.
+Więcej ode mnie nie usłyszysz.
+
+277
+00:29:44,615 --> 00:29:47,493
+Więcej nawet o niej nie wspomnę.
+Koniec.
+
+278
+00:29:50,497 --> 00:29:51,999
+Nie wolno mi.
+
+279
+00:29:57,378 --> 00:29:59,714
+Golę tylko brodę.
+
+280
+00:30:10,017 --> 00:30:12,394
+Nie rób tego, proszę.
+
+281
+00:32:04,006 --> 00:32:07,092
+<i>Witaj, Auroro!</i>
+<i>Jak się czujesz?</i>
+
+282
+00:32:07,800 --> 00:32:10,511
+<i>Zdezorientowanie jest</i>
+<i>w pełni normalne.</i>
+
+283
+00:32:10,596 --> 00:32:13,891
+<i>Spędziłeś w stanie hibernacji</i>
+<i>ostatnie 120 lat.</i>
+
+284
+00:33:02,189 --> 00:33:04,107
+<i>Wielka Hala.</i>
+
+285
+00:33:09,195 --> 00:33:10,405
+Jest tu ktoś?
+
+286
+00:33:19,580 --> 00:33:20,915
+Cześć.
+
+287
+00:33:24,420 --> 00:33:25,503
+Cześć.
+
+288
+00:33:28,298 --> 00:33:31,719
+Jesteś pasażerem
+czy członkiem załogi?
+
+289
+00:33:32,594 --> 00:33:34,096
+Pasażerem.
+
+290
+00:33:34,387 --> 00:33:37,391
+- Jim Preston.
+- Aurora Lane.
+
+291
+00:33:38,683 --> 00:33:42,479
+Wiesz, co tu się dzieje?
+Nikt inny w pobliżu się nie obudził.
+
+292
+00:33:43,689 --> 00:33:44,815
+U mnie też.
+
+293
+00:33:44,815 --> 00:33:48,402
+Załoga miała obudzić się
+miesiąc przed nami, ale...
+
+294
+00:33:48,402 --> 00:33:50,612
+nikogo tu nie widzę.
+
+295
+00:33:53,406 --> 00:33:54,907
+Załoga wciąż śpi.
+
+296
+00:33:56,993 --> 00:33:58,787
+Czyli nikt się nie obudził?
+
+297
+00:33:59,413 --> 00:34:01,789
+- Tylko ja.
+- Jak to?
+
+298
+00:34:02,082 --> 00:34:03,416
+Tylko my.
+
+299
+00:34:04,292 --> 00:34:07,211
+Ale za kilka tygodni
+ktoś musi wylądować.
+
+300
+00:34:07,378 --> 00:34:10,882
+<i>Dolecimy za około 89 lat.</i>
+
+301
+00:34:11,090 --> 00:34:13,010
+Ile?
+
+302
+00:34:15,387 --> 00:34:19,016
+Inni pasażerowie wcale
+nie zwlekają z wybudzeniem się.
+
+303
+00:34:19,891 --> 00:34:22,018
+To my zbudziliśmy się
+za wcześnie.
+
+304
+00:34:25,898 --> 00:34:29,693
+Potrzebujemy pomocy.
+Gdzie jest załoga?
+
+305
+00:34:30,193 --> 00:34:32,905
+<i>Hibernuje</i>
+<i>w zabezpieczonym pomieszczeniu.</i>
+
+306
+00:34:32,987 --> 00:34:36,407
+Ważne rzeczy:
+sterowanie, reaktory, silniki...
+
+307
+00:34:36,617 --> 00:34:40,579
+Wszystko jest zabezpieczone tak,
+że nie da się tam dostać.
+
+308
+00:34:50,213 --> 00:34:52,215
+Kiedy się obudziłeś?
+
+309
+00:34:53,217 --> 00:34:55,010
+Rok i trzy tygodnie temu.
+
+310
+00:34:55,719 --> 00:34:58,179
+Nie...
+
+311
+00:34:59,306 --> 00:35:00,682
+To jakiś sen.
+
+312
+00:35:01,516 --> 00:35:05,186
+- Musimy się zahibernować.
+- Nie możemy.
+
+313
+00:35:08,106 --> 00:35:11,610
+Wrócimy do komór
+i zaprogramujemy je na nowo.
+
+314
+00:35:12,695 --> 00:35:16,699
+Nie mogę znaleźć mojej!
+
+315
+00:35:17,782 --> 00:35:19,201
+To bez znaczenia.
+
+316
+00:35:20,702 --> 00:35:22,496
+- Nie mogę znaleźć!
+- Czekaj!
+
+317
+00:35:22,496 --> 00:35:25,416
+Nie wiem, która jest moja.
+Jak to odróżnić?
+
+318
+00:35:25,498 --> 00:35:29,085
+- Nie mogę...
+- Przestań! To bez znaczenia.
+
+319
+00:35:31,797 --> 00:35:35,384
+Uruchomienie hibernacji
+wymaga specjalistycznego sprzętu.
+
+320
+00:35:35,800 --> 00:35:40,097
+Pamiętasz, jak nas usypiali?
+Wszystkie te procedury?
+
+321
+00:35:40,304 --> 00:35:44,184
+Komory mają utrzymać hibernację
+i obudzić nas na koniec.
+
+322
+00:35:44,184 --> 00:35:49,313
+- Nie można zasnąć drugi raz.
+- Uważasz, że nie ma na to sposobu?
+
+323
+00:35:50,190 --> 00:35:51,608
+Nie.
+
+324
+00:35:51,692 --> 00:35:55,612
+Ale musi być jakiś sposób.
+Musi.
+
+325
+00:36:04,413 --> 00:36:07,791
+21:00.
+Pora spać.
+
+326
+00:36:12,086 --> 00:36:15,507
+Wiem, że powinnam teraz
+myśleć nad rozwiązaniem.
+
+327
+00:36:15,715 --> 00:36:20,512
+- Ale zasypiam na stojąco.
+- Dopiero co się wybudziłaś.
+
+328
+00:36:20,596 --> 00:36:24,682
+Musi upłynąć jeszcze parę dni.
+Lepiej odpocznij.
+
+329
+00:36:25,601 --> 00:36:27,393
+Chyba muszę.
+
+330
+00:36:28,686 --> 00:36:33,108
+- Odprowadzę cię do kajuty.
+- Nie trzeba. Poradzę sobie.
+
+331
+00:36:33,983 --> 00:36:35,193
+Jasne.
+
+332
+00:36:38,489 --> 00:36:39,907
+Dobranoc, Auroro.
+
+333
+00:36:41,992 --> 00:36:45,286
+Ponad rok...
+Nawet sobie tego nie wyobrażam.
+
+334
+00:36:45,996 --> 00:36:49,791
+- Musiało ci być niesamowicie ciężko.
+- I było.
+
+335
+00:36:50,000 --> 00:36:51,585
+Dobranoc, Jim.
+
+336
+00:36:53,503 --> 00:36:57,090
+<i>Proszę się przypiąć</i>
+<i>i zabezpieczyć.</i>
+
+337
+00:36:59,510 --> 00:37:03,012
+- Czystą whiskey.
+- Pewnie.
+
+338
+00:37:08,101 --> 00:37:12,188
+- Jak minął ci dzień?
+- Aurora się obudziła.
+
+339
+00:37:12,481 --> 00:37:14,108
+Gratulacje.
+
+340
+00:37:16,193 --> 00:37:18,320
+Nie wyglądasz na szczęśliwego.
+
+341
+00:37:21,907 --> 00:37:23,909
+Potrafisz dochować tajemnicy?
+
+342
+00:37:23,909 --> 00:37:27,913
+Jestem nie tylko barmanem,
+ale i dżentelmenem.
+
+343
+00:37:28,496 --> 00:37:31,291
+Nie mów Aurorze,
+że to ja ją wybudziłem.
+
+344
+00:37:33,001 --> 00:37:36,005
+Sądzi, że to był wypadek.
+Sam chcę jej wyjaśnić.
+
+345
+00:37:36,005 --> 00:37:37,297
+Oczywiście.
+
+346
+00:37:50,686 --> 00:37:54,690
+Jak to nie da się znów hibernować?
+A jeśli komora się zepsuje?
+
+347
+00:37:54,690 --> 00:37:59,193
+<i>W tysiącach lotów międzygwiezdnych</i>
+<i>nie odnotowano żadnej awarii komory.</i>
+
+348
+00:37:59,485 --> 00:38:02,197
+Ja się jakoś obudziłam!
+
+349
+00:38:02,197 --> 00:38:04,490
+<i>Komory są odporne na awarie.</i>
+
+350
+00:38:05,117 --> 00:38:07,411
+Dzień dobry.
+Jadłaś już coś?
+
+351
+00:38:07,411 --> 00:38:09,204
+Nie.
+I umieram z głodu.
+
+352
+00:38:09,496 --> 00:38:11,581
+A ta maszyna jest
+głupia jak but.
+
+353
+00:38:11,706 --> 00:38:13,583
+<i>Proszę!</i>
+
+354
+00:38:19,590 --> 00:38:25,387
+<i>INFOKIOSK...</i>
+<i>BŁĄD KRYTYCZNY</i>
+
+355
+00:38:26,012 --> 00:38:28,306
+<i>Śniadanie dla klasy złotej.</i>
+
+356
+00:38:38,608 --> 00:38:43,197
+- Nie masz wybrednego gustu.
+- Nie jestem pasażerem klasy złotej.
+
+357
+00:38:45,407 --> 00:38:47,492
+Nie stać mnie
+na francuskie muffinki.
+
+358
+00:38:47,492 --> 00:38:49,994
+- Jak to, i przez cały ten czas...?
+- Tak.
+
+359
+00:38:49,994 --> 00:38:52,498
+- Co ci zamówić?
+- Nie trzeba.
+
+360
+00:38:52,498 --> 00:38:54,708
+- Daj spokój.
+- No dobrze.
+
+361
+00:38:56,501 --> 00:38:58,795
+Proszę bardzo.
+
+362
+00:39:04,300 --> 00:39:07,596
+Istnieją jakieś inne sposoby,
+żeby uruchomić hibernację?
+
+363
+00:39:07,679 --> 00:39:09,681
+- Coś w ambulatorium?
+- Byłem tam.
+
+364
+00:39:09,681 --> 00:39:11,307
+Skanery i komora medyczna.
+
+365
+00:39:11,307 --> 00:39:15,103
+- A w ładowni nie ma zapasowych komór?
+- Też o tym pomyślałem.
+
+366
+00:39:15,103 --> 00:39:18,898
+Przejrzałem spisy.
+Wieziemy głównie maszyny rolne.
+
+367
+00:39:18,981 --> 00:39:23,612
+Części zapasowe do komputerów.
+Nie znajdziemy nowej komory.
+
+368
+00:39:23,612 --> 00:39:25,280
+- Zbudujmy ją.
+- Nie damy rady.
+
+369
+00:39:25,280 --> 00:39:28,992
+- Wcale się nie starasz!
+- Bo wszystkiego już próbowałem.
+
+370
+00:39:29,117 --> 00:39:30,911
+Przez ponad rok.
+
+371
+00:39:32,286 --> 00:39:34,206
+Naprawdę wszystkiego.
+
+372
+00:39:36,500 --> 00:39:38,085
+Ja się nie poddam.
+
+373
+00:39:47,510 --> 00:39:49,179
+<i>Ambulatorium.</i>
+
+374
+00:39:56,978 --> 00:39:59,815
+Są tu książki naukowe?
+Dokumenty techniczne?
+
+375
+00:39:59,815 --> 00:40:02,483
+<i>Ta technologia</i>
+<i>jest prawnie zastrzeżona.</i>
+
+376
+00:40:02,483 --> 00:40:06,405
+<i>W następujących artykułach</i>
+<i>rozważa się kwestie teoretyczne...</i>
+
+377
+00:40:49,697 --> 00:40:52,409
+Utwórz nowy plik.
+"Moja podróż".
+
+378
+00:40:52,909 --> 00:40:56,704
+Na pokład Avalonu weszłam
+z poczuciem, że mam cel podróży.
+
+379
+00:40:57,414 --> 00:41:00,918
+Znalazł się on jednak
+poza moim zasięgiem.
+
+380
+00:41:03,211 --> 00:41:04,880
+<i>Nie śpię od tygodnia.</i>
+
+381
+00:41:05,797 --> 00:41:07,882
+<i>Wybudziłam się zbyt wcześnie.</i>
+
+382
+00:41:08,300 --> 00:41:11,219
+Spędzę więc na Avalonie
+resztę swojego życia.
+
+383
+00:41:11,219 --> 00:41:15,099
+<i>W świecie ze stali</i>
+<i>o długości kilometra.</i>
+
+384
+00:41:16,599 --> 00:41:18,811
+<i>Obudził się jeszcze</i>
+<i>jeden współpasażer.</i>
+
+385
+00:41:18,811 --> 00:41:21,188
+<i>Mechanik nazwiskiem</i>
+<i>Jim Preston.</i>
+
+386
+00:41:23,190 --> 00:41:26,485
+<i>Wygląda na to,</i>
+<i>że pogodził się on z naszym losem.</i>
+
+387
+00:41:26,693 --> 00:41:28,612
+<i>Ale ja jestem przerażona.</i>
+
+388
+00:41:29,405 --> 00:41:31,197
+<i>Walczę ze sobą o spokój.</i>
+
+389
+00:41:33,992 --> 00:41:39,081
+<i>Reszta pasażerów pozostanie</i>
+<i>pogrążona we śnie przez 90 lat.</i>
+
+390
+00:41:39,789 --> 00:41:42,501
+<i>Ja zaś przeżyję</i>
+<i>swoje życie na statku.</i>
+
+391
+00:41:43,085 --> 00:41:47,588
+<i>Wieczność w podróży,</i>
+<i>która się nie skończy.</i>
+
+392
+00:41:48,507 --> 00:41:51,510
+<i>A u boku mam tylko</i>
+<i>nieznajomą mi osobę.</i>
+
+393
+00:42:00,184 --> 00:42:01,894
+Dlaczego to zrobiłeś?
+
+394
+00:42:04,188 --> 00:42:05,481
+Co takiego?
+
+395
+00:42:06,608 --> 00:42:09,193
+Wyemigrowałeś z Ziemi.
+
+396
+00:42:10,195 --> 00:42:12,989
+- Przeprowadzam wywiad.
+- Słucham?
+
+397
+00:42:12,989 --> 00:42:16,492
+Twoja hibernacja nie powiodła się
+jako pierwsza w historii.
+
+398
+00:42:16,492 --> 00:42:18,286
+To temat na opracowanie.
+
+399
+00:42:18,494 --> 00:42:21,206
+- Komu je przekażesz?
+- Potomności.
+
+400
+00:42:21,206 --> 00:42:24,001
+Dlaczego porzuciłeś
+swoje życie na Ziemi?
+
+401
+00:42:24,501 --> 00:42:29,005
+120 lat hibernacji w podróży oznacza,
+że zostawiłeś rodzinę i przyjaciół.
+
+402
+00:42:29,005 --> 00:42:32,592
+Miałeś obudzić się w nowym stuleciu
+i na nowej planecie.
+
+403
+00:42:32,885 --> 00:42:37,389
+- Samobójstwo poprzez podróż.
+- Mógłbym cię spytać o to samo.
+
+404
+00:42:37,389 --> 00:42:39,391
+Ale to ja zadaję pytania.
+
+405
+00:42:39,682 --> 00:42:42,686
+- Uciekałeś przed czymś?
+- Nie.
+
+406
+00:42:43,519 --> 00:42:45,898
+- Moje życie było w porządku.
+- Czyli co?
+
+407
+00:42:45,981 --> 00:42:48,483
+Pragnąłem nowego świata.
+Nowego początku.
+
+408
+00:42:48,483 --> 00:42:51,487
+- To hasła z ulotek Kompanii Homestead.
+- Serio?
+
+409
+00:42:52,195 --> 00:42:54,782
+No nie wiem.
+Chyba masz rację.
+
+410
+00:42:59,411 --> 00:43:03,081
+Na Ziemi, jeśli coś się zepsuje,
+to po prostu kupujesz nowe.
+
+411
+00:43:03,289 --> 00:43:06,001
+W koloniach trzeba
+radzić sobie inaczej.
+
+412
+00:43:06,210 --> 00:43:08,420
+I tu wkraczam ja.
+
+413
+00:43:09,588 --> 00:43:14,217
+Mechanik może być kimś.
+Kolonia jest światem w budowie.
+
+414
+00:43:16,219 --> 00:43:18,514
+Mogę sam
+zbudować sobie dom.
+
+415
+00:43:23,184 --> 00:43:27,398
+- Miejsca wystarczy dla wszystkich.
+- Teraz to ty rzucasz hasłami.
+
+416
+00:43:27,815 --> 00:43:29,400
+Może są one prawdziwe?
+
+417
+00:43:31,318 --> 00:43:34,780
+Wiesz, jaki zysk z pierwszej planety
+osiągnęła Kompania?
+
+418
+00:43:34,780 --> 00:43:36,989
+8 kwadrylionów dolarów.
+
+419
+00:43:36,989 --> 00:43:39,617
+8 milionów miliardów.
+
+420
+00:43:39,784 --> 00:43:42,413
+Kolonie to teraz
+najlepszy biznes.
+
+421
+00:43:42,704 --> 00:43:47,001
+- Zapłaciłeś pełną kwotę za bilet?
+- Nie, lecę z uwagi na umiejętności.
+
+422
+00:43:47,001 --> 00:43:51,588
+Czyli wypchali ci głowę marzeniami i
+dali zniżkę na bilet,
+
+423
+00:43:51,588 --> 00:43:56,510
+a ty w zamian zwiększasz populację
+i oddajesz im 20% zarobków do końca życia.
+
+424
+00:43:56,510 --> 00:43:59,679
+Nie wspominając o długu,
+jaki rośnie ci na pokładzie.
+
+425
+00:43:59,804 --> 00:44:02,016
+Czyli co,
+leci z nami 5000 frajerów?
+
+426
+00:44:03,099 --> 00:44:06,519
+Lecą z nami
+gigantyczne zyski Homestead.
+
+427
+00:44:06,894 --> 00:44:11,983
+A dla mnie te 5000 osób
+zmienia swoje życie z 5000 powodów.
+
+428
+00:44:12,108 --> 00:44:16,112
+- Nie znasz tych ludzi.
+- Znam ludzi. Jestem dziennikarką.
+
+429
+00:44:18,114 --> 00:44:19,282
+Poważnie?
+
+430
+00:44:19,782 --> 00:44:23,704
+No to ten.
+Bankier, nauczyciel czy ogrodnik?
+
+431
+00:44:25,289 --> 00:44:28,000
+- Bankier.
+- A jest ogrodnikiem.
+
+432
+00:44:28,708 --> 00:44:34,297
+A ta kobieta:
+Madison, Donna czy Lola?
+
+433
+00:44:35,382 --> 00:44:38,510
+Donna nie pasuje do tej fryzury.
+Lola.
+
+434
+00:44:39,510 --> 00:44:41,804
+- Madison.
+- No kurwa!
+
+435
+00:44:43,681 --> 00:44:46,601
+No dobrze.
+Kucharka, księgowa czy położna?
+
+436
+00:44:47,018 --> 00:44:49,480
+Położna.
+Sam byś nie wpadł na ten zawód.
+
+437
+00:44:49,480 --> 00:44:50,981
+Zgadza się.
+
+438
+00:44:52,398 --> 00:44:55,485
+Dobrze wiedzieć,
+że wciąż mamy zawodowe położne.
+
+439
+00:44:56,612 --> 00:44:59,280
+Podoba mi się.
+Zaprzyjaźniłybyśmy się.
+
+440
+00:44:59,697 --> 00:45:03,202
+- Myślisz, że można takie coś przewidzieć?
+- A ty nie?
+
+441
+00:45:05,119 --> 00:45:06,413
+Zgadzam się.
+
+442
+00:45:06,579 --> 00:45:09,083
+- Bilet w obie strony?
+- Tak.
+
+443
+00:45:09,083 --> 00:45:13,086
+Miałam lecieć na Homestead II,
+pomieszkać tam rok i wracać na Ziemię.
+
+444
+00:45:13,086 --> 00:45:16,507
+Jak to? Ja lecę na zawsze,
+a ty wracasz do punktu wyjścia.
+
+445
+00:45:16,590 --> 00:45:20,385
+Wracam do przyszłości.
+250 lat później.
+
+446
+00:45:20,594 --> 00:45:24,889
+I to na Ziemi, która wciąż
+na pewno będzie centrum cywilizacji.
+
+447
+00:45:25,599 --> 00:45:29,311
+Byłabym jedyną pisarką w historii,
+która zaliczyła taką podróż.
+
+448
+00:45:29,311 --> 00:45:32,398
+- Opowiedziałabym coś unikatowego.
+- Czyli?
+
+449
+00:45:32,690 --> 00:45:36,902
+Jak ludzkość poleciała ku gwiazdom
+w największej migracji w historii.
+
+450
+00:45:36,985 --> 00:45:40,614
+- Nie ma ważniejszej opowieści.
+- I nie znałabyś jej odbiorców.
+
+451
+00:45:40,697 --> 00:45:42,990
+Ale ludzie i tak ją przeczytają.
+
+452
+00:45:44,909 --> 00:45:46,411
+Przeczytaliby, gdyby...
+
+453
+00:45:48,079 --> 00:45:52,208
+Ale już jej nie spiszę.
+Nie wiem, czy cokolwiek w ogóle napiszę.
+
+454
+00:45:54,085 --> 00:45:59,717
+Skończyły mi się pomysły na to,
+jak możemy się uratować.
+
+455
+00:46:01,300 --> 00:46:04,012
+Nawet nie chcę
+już o tym myśleć.
+
+456
+00:46:06,389 --> 00:46:08,684
+Jest tu coś
+ciekawego do roboty?
+
+457
+00:46:10,686 --> 00:46:13,480
+- Poważnie?
+- Śmiertelnie.
+
+458
+00:46:13,480 --> 00:46:15,106
+Tryb dwuosobowy.
+
+459
+00:46:16,817 --> 00:46:18,985
+Dalej, trzeba dopasować ruchy.
+
+460
+00:46:25,199 --> 00:46:28,786
+Stajesz tam i powtarzamy
+wszystkie ruchy hologramów.
+
+461
+00:46:36,420 --> 00:46:39,882
+- Nie możemy porobić czegoś innego?
+- Spróbuj.
+
+462
+00:46:39,882 --> 00:46:42,509
+- Nie musisz, jeśli nie chcesz.
+- Zrobię to.
+
+463
+00:46:44,094 --> 00:46:46,012
+Dalej.
+Zobaczymy, czy...
+
+464
+00:46:48,306 --> 00:46:52,686
+- Skąd ten uśmiech?
+- Prowadzę dwoma punktami.
+
+465
+00:46:53,103 --> 00:46:55,898
+- Cóż to za dama?
+- Poznaj Aurorę.
+
+466
+00:46:55,898 --> 00:46:58,192
+Aurora.
+Bardzo mi miło.
+
+467
+00:47:01,695 --> 00:47:03,780
+- Świetnie ci poszło!
+- No dobra, jeszcze raz.
+
+468
+00:47:03,780 --> 00:47:05,199
+Ale tylko jeden.
+
+469
+00:47:21,005 --> 00:47:25,510
+- A raz przez miesiąc nie nosiłem spodni.
+- Przez 7 tygodni i 2 dni.
+
+470
+00:47:25,594 --> 00:47:26,887
+Zero wstydu.
+
+471
+00:47:27,096 --> 00:47:30,306
+U ciebie też jest
+krucho poniżej pasa, Arthurze.
+
+472
+00:47:33,018 --> 00:47:36,813
+Śmiałem się z faceta bez spodni,
+a sam nie mam nawet nóg.
+
+473
+00:47:43,195 --> 00:47:46,114
+Przez chwilę zapomniałam,
+że mam spaprane życie.
+
+474
+00:47:46,114 --> 00:47:49,284
+- Przepraszam.
+- Za co?
+
+475
+00:47:50,911 --> 00:47:52,413
+Idę się położyć.
+
+476
+00:47:53,288 --> 00:47:54,789
+- Dobranoc.
+- Jasne.
+
+477
+00:47:54,914 --> 00:47:56,791
+Dobrej nocy, Auroro.
+
+478
+00:47:59,503 --> 00:48:01,380
+Jest cudowna.
+
+479
+00:48:02,588 --> 00:48:04,882
+Fantastyczny wybór.
+
+480
+00:49:31,887 --> 00:49:33,304
+Witaj.
+
+481
+00:49:33,597 --> 00:49:36,099
+<i>- Cześć.</i>
+- Proszę bardzo.
+
+482
+00:49:40,186 --> 00:49:41,813
+<i>KOLACJA WIECZOREM?</i>
+<i>JIM</i>
+
+483
+00:49:42,481 --> 00:49:44,315
+<i>To zaproszenie na randkę?</i>
+
+484
+00:49:46,610 --> 00:49:48,987
+Chcesz coś do pisania?
+
+485
+00:50:00,916 --> 00:50:03,793
+Chyba jej nie zaimponowałem.
+
+486
+00:50:14,179 --> 00:50:15,889
+<i>Z PRZYJEMNOŚCIĄ.</i>
+
+487
+00:50:20,811 --> 00:50:22,980
+"Z przyjemnością".
+Tak odpisała.
+
+488
+00:50:30,903 --> 00:50:33,197
+<i>Masz gościa.</i>
+
+489
+00:50:52,384 --> 00:50:54,802
+Ty też nieźle się odstawiłeś.
+
+490
+00:50:55,512 --> 00:50:58,806
+- Byłeś na zakupach.
+- Ale... bez płacenia.
+
+491
+00:51:03,519 --> 00:51:05,813
+Dobry wieczór.
+Co podać?
+
+492
+00:51:05,898 --> 00:51:07,900
+Poproszę Manhattan.
+
+493
+00:51:09,400 --> 00:51:11,320
+- Whiskey z lodem.
+- Robi się.
+
+494
+00:51:19,619 --> 00:51:22,914
+- Świetnie dziś wyglądacie.
+- Dziękujemy, Arthurze.
+
+495
+00:51:22,914 --> 00:51:25,918
+- Jesteśmy na randce.
+- Fantastycznie.
+
+496
+00:51:26,710 --> 00:51:30,213
+- Długo się za to zabierałeś.
+- Żebyś miała trochę przestrzeni.
+
+497
+00:51:31,882 --> 00:51:35,885
+Przestrzeni akurat
+starczy mi do końca życia.
+
+498
+00:51:39,097 --> 00:51:40,516
+Merci beaucoup.
+
+499
+00:51:42,101 --> 00:51:45,603
+- Pyszna kolacja.
+- Trudno w tym lokalu o wolny stolik.
+
+500
+00:51:45,603 --> 00:51:49,315
+Pewnie będzie trzeba zwolnić miejsce.
+Ludzie patrzą spode łba.
+
+501
+00:51:49,315 --> 00:51:51,318
+Straszne tu dziś tłumy.
+
+502
+00:51:52,985 --> 00:51:57,199
+- Jak idzie praca nad książką?
+- Jeszcze nie wiem, o czym będzie.
+
+503
+00:51:57,782 --> 00:52:02,496
+Mój ojciec zaczął autobiografię,
+ale on miał o czym pisać.
+
+504
+00:52:02,913 --> 00:52:04,914
+Opłynął Antarktydę.
+
+505
+00:52:05,416 --> 00:52:08,918
+Był reporterem wojennym,
+miał liczne kochanki.
+
+506
+00:52:09,420 --> 00:52:11,505
+Pisał też o swojej córce.
+
+507
+00:52:11,713 --> 00:52:13,382
+- A ty?
+- Nie.
+
+508
+00:52:13,382 --> 00:52:17,094
+- Od zawsze czytałam o sobie w książkach.
+- I jak było?
+
+509
+00:52:17,719 --> 00:52:19,096
+Nie zawsze fajnie.
+
+510
+00:52:19,096 --> 00:52:21,806
+Dowiadywałam się więcej,
+niż bym chciała.
+
+511
+00:52:22,099 --> 00:52:27,311
+A kiedy miałam 17 lat,
+ojciec dostał zawału.
+
+512
+00:52:28,480 --> 00:52:30,983
+Siedząc nad klawiaturą.
+
+513
+00:52:30,983 --> 00:52:32,900
+I tyle.
+
+514
+00:52:35,487 --> 00:52:37,989
+Zrobiło się zbyt poważnie.
+Przepraszam.
+
+515
+00:52:38,699 --> 00:52:43,119
+- Poprosimy o więcej wina.
+- Chętnie posłucham o twoim życiu.
+
+516
+00:52:43,119 --> 00:52:44,413
+Dzięki.
+
+517
+00:52:46,789 --> 00:52:49,418
+- Co tu robimy?
+- Zobaczysz.
+
+518
+00:52:51,586 --> 00:52:53,505
+To najlepsza zabawa.
+
+519
+00:52:56,884 --> 00:53:00,512
+- Robiłeś to już kiedyś?
+- Pewnie.
+
+520
+00:53:00,804 --> 00:53:03,306
+- I jest bezpiecznie?
+- Nie.
+
+521
+00:53:04,682 --> 00:53:05,893
+W miarę.
+
+522
+00:53:07,686 --> 00:53:09,896
+Zakładaj.
+Twoja kolej.
+
+523
+00:53:11,606 --> 00:53:13,400
+Mam na sobie sukienkę.
+
+524
+00:53:15,693 --> 00:53:16,820
+Jasne.
+
+525
+00:53:19,697 --> 00:53:20,990
+Odwróć się.
+
+526
+00:53:52,106 --> 00:53:54,108
+<i>Skafander został przywiązany.</i>
+
+527
+00:54:34,481 --> 00:54:37,192
+- Co ty robisz?
+- Ufasz mi?
+
+528
+00:55:24,907 --> 00:55:26,282
+Dziękuję.
+
+529
+00:56:15,416 --> 00:56:17,583
+Jesteś najpiękniejsza.
+
+530
+00:56:21,295 --> 00:56:23,297
+Zabijesz mnie.
+
+531
+00:57:05,590 --> 00:57:08,594
+- Wszystko w porządku?
+- Tak.
+
+532
+00:57:10,679 --> 00:57:12,181
+Wszystko.
+
+533
+00:57:12,514 --> 00:57:14,016
+Tylko...
+
+534
+00:57:21,606 --> 00:57:22,983
+Wiem.
+
+535
+00:57:38,998 --> 00:57:41,293
+<i>Spotykam się z kimś.</i>
+
+536
+00:57:41,793 --> 00:57:43,586
+<i>Nigdy nie zgadniecie.</i>
+
+537
+00:57:44,880 --> 00:57:48,509
+<i>Jesteśmy tu sami,</i>
+<i>kobieta i mężczyzna, no tak.</i>
+
+538
+00:57:48,592 --> 00:57:51,887
+<i>I proszę.</i>
+<i>Stara prawda.</i>
+
+539
+00:57:52,387 --> 00:57:54,889
+- Co mówiłaś?
+- Cicho, piszę.
+
+540
+00:57:56,099 --> 00:57:59,186
+<i>Szczęście spotkało nas przypadkiem.</i>
+
+541
+00:57:59,311 --> 00:58:02,313
+<i>Jak dwoje rozbitków</i>
+<i>na nieznanych brzegach.</i>
+
+542
+00:58:02,398 --> 00:58:06,110
+- Kapitalna metafora.
+- Poważnie? Nie musisz mi schlebiać.
+
+543
+00:58:06,110 --> 00:58:08,403
+- Wiem.
+- Nie zjesz tego?
+
+544
+00:58:10,697 --> 00:58:12,699
+Rybkom chyba nie smakuje.
+
+545
+00:58:14,284 --> 00:58:15,411
+Czytaj.
+
+546
+00:58:15,786 --> 00:58:18,706
+<i>To zabawne.</i>
+<i>Wszyscy o czymś marzymy.</i>
+
+547
+00:58:18,789 --> 00:58:19,998
+<i>METALE SZLACHETNE</i>
+
+548
+00:58:19,998 --> 00:58:23,793
+<i>Gdy planujemy przyszłość,</i>
+<i>każdy z nas jest sterem własnego losu.</i>
+
+549
+00:58:24,085 --> 00:58:29,090
+<i>W rzeczywistości jesteśmy pasażerami,</i>
+<i>płynącymi tam, dokąd zaniesie nas los.</i>
+
+550
+00:58:32,302 --> 00:58:35,597
+<i>Nie zaplanowaliśmy tego.</i>
+<i>Ale tak wyszło.</i>
+
+551
+00:58:36,181 --> 00:58:40,393
+<i>I po raz pierwszy w swoim życiu</i>
+<i>nie czuję się samotna.</i>
+
+552
+00:58:43,313 --> 00:58:47,900
+<i>Niby nie było nam dane</i>
+<i>być razem, lecz i tak jesteśmy.</i>
+
+553
+00:58:49,318 --> 00:58:52,614
+<i>Dzięki temu czuję,</i>
+<i>że moje życie się nie skończyło.</i>
+
+554
+00:58:52,614 --> 00:58:54,615
+<i>Ono dopiero się zaczyna.</i>
+
+555
+00:58:55,284 --> 00:58:58,411
+- Jak minął ci dzień?
+- Dobrze. Napisałam parę stron.
+
+556
+00:58:58,996 --> 00:59:01,081
+Znalazłeś coś,
+co nam pomoże?
+
+557
+00:59:04,585 --> 00:59:06,295
+- Owszem.
+- Są prawdziwe?
+
+558
+00:59:07,003 --> 00:59:08,713
+Sam je ścinałem.
+
+559
+00:59:12,300 --> 00:59:15,387
+Jak na dwoje pechowców,
+mamy sporo szczęścia.
+
+560
+00:59:20,601 --> 00:59:22,186
+<i>Uwaga.</i>
+
+561
+00:59:22,186 --> 00:59:25,813
+<i>Zapraszamy państwa</i>
+<i>na taras widokowy.</i>
+
+562
+00:59:25,898 --> 00:59:30,193
+<i>Avalon wykona manewr asysty grawitacyjnej</i>
+<i>wokół gwiazdy Arktur.</i>
+
+563
+01:00:08,106 --> 01:00:09,900
+Niesamowite.
+
+564
+01:00:11,818 --> 01:00:13,487
+Czerwony olbrzym.
+
+565
+01:00:18,117 --> 01:00:21,619
+- Cały wszechświat jest twoim prezentem.
+- Słucham?
+
+566
+01:00:23,204 --> 01:00:25,206
+Wszystkiego najlepszego.
+
+567
+01:00:31,880 --> 01:00:36,217
+Sto lat, sto lat...
+
+568
+01:00:50,983 --> 01:00:52,985
+Urodzinowy drink
+dla jubilatki.
+
+569
+01:00:52,985 --> 01:00:55,403
+Nie pytasz o dowód?
+Może nie wolno mi pić.
+
+570
+01:00:55,487 --> 01:00:58,407
+Nie spytam kobiety o wiek
+w obecności dżentelmena.
+
+571
+01:00:58,407 --> 01:00:59,907
+Żaden z niego dżentelmen.
+
+572
+01:00:59,907 --> 01:01:02,411
+A poza tym nie ma
+między nami tajemnic.
+
+573
+01:01:03,704 --> 01:01:06,706
+- Doprawdy?
+- Słyszałeś.
+
+574
+01:01:06,789 --> 01:01:08,583
+Zaraz wracam.
+
+575
+01:01:22,889 --> 01:01:25,184
+Cudowny drink.
+Dziękuję ci.
+
+576
+01:01:25,601 --> 01:01:28,686
+Pamiętam, że dokładnie rok temu
+
+577
+01:01:28,811 --> 01:01:31,690
+Jim nie mógł się doczekać,
+kiedy cię spotka.
+
+578
+01:01:32,106 --> 01:01:33,192
+Słucham?
+
+579
+01:01:33,900 --> 01:01:35,818
+Jak to nie mógł się doczekać?
+
+580
+01:01:35,818 --> 01:01:39,280
+Miesiącami zastanawiał się,
+czy powinien cię budzić.
+
+581
+01:01:39,280 --> 01:01:41,909
+Nie mógł przestać
+o tobie mówić.
+
+582
+01:01:46,079 --> 01:01:49,416
+- Jim mnie obudził?
+- Owszem.
+
+583
+01:01:50,708 --> 01:01:53,586
+Mówił, że to najtrudniejsza
+decyzja w jego życiu.
+
+584
+01:01:53,586 --> 01:01:56,882
+Widzę jednak,
+że wszystko dobrze się skończyło.
+
+585
+01:02:08,601 --> 01:02:09,811
+Co jest?
+
+586
+01:02:12,606 --> 01:02:14,315
+To ty mnie wybudziłeś?
+
+587
+01:02:22,199 --> 01:02:23,282
+Tak.
+
+588
+01:02:28,079 --> 01:02:31,208
+Jak mogłeś...?
+
+589
+01:02:34,420 --> 01:02:36,295
+Próbowałem tego nie robić.
+
+590
+01:02:42,385 --> 01:02:44,387
+Niedobrze mi.
+
+591
+01:02:45,014 --> 01:02:46,597
+I mam mroczki.
+
+592
+01:02:48,391 --> 01:02:52,311
+- Proszę cię, Auroro...
+- Trzymaj się z daleka ode mnie!
+
+593
+01:02:57,693 --> 01:02:59,987
+Nie mogę stąd uciec.
+
+594
+01:04:15,978 --> 01:04:17,981
+Mogę z tobą porozmawiać?
+
+595
+01:05:48,280 --> 01:05:51,699
+<i>Wiem, że żadne słowa</i>
+<i>nie odmienią tego, co się stało.</i>
+
+596
+01:05:51,784 --> 01:05:53,619
+<i>Ale wysłuchaj mnie, proszę.</i>
+
+597
+01:05:53,786 --> 01:05:57,498
+Byłem samotny.
+Tak bardzo długo.
+
+598
+01:05:59,291 --> 01:06:01,210
+Czułem, jakbym zanikał.
+
+599
+01:06:02,293 --> 01:06:06,090
+Nocą, której ujrzałem cię
+po raz pierwszy, byłem gotów...
+
+600
+01:06:08,717 --> 01:06:10,302
+Ocaliłaś moje życie.
+
+601
+01:06:13,012 --> 01:06:16,182
+<i>Wiem, nie ma dla mnie</i>
+<i>żadnego usprawiedliwienia.</i>
+
+602
+01:06:17,518 --> 01:06:19,686
+Przeczytałem wszystkie
+twoje teksty.
+
+603
+01:06:19,811 --> 01:06:23,190
+<i>Zakochałem się</i>
+<i>w twoim głosie.</i>
+
+604
+01:06:23,398 --> 01:06:25,983
+<i>W sposobie,</i>
+<i>w jaki postrzegasz świat.</i>
+
+605
+01:06:26,485 --> 01:06:28,695
+<i>W tobie.</i>
+
+606
+01:06:29,905 --> 01:06:31,782
+<i>I w jednej chwili...</i>
+
+607
+01:06:31,989 --> 01:06:34,992
+już nie byłem osaczony
+tym wszystkim.
+
+608
+01:06:35,994 --> 01:06:38,914
+Moje życie
+nagle nabrało sensu.
+
+609
+01:06:41,708 --> 01:06:43,918
+Chciałbym móc
+odmienić przeszłość.
+
+610
+01:06:45,295 --> 01:06:46,880
+<i>Ale nie mogę.</i>
+
+611
+01:06:48,297 --> 01:06:52,094
+<i>- Nie chcę cię stracić.</i>
+- Mam to gdzieś!
+
+612
+01:06:52,302 --> 01:06:54,512
+Mam gdzieś, czego chcesz!
+
+613
+01:06:54,596 --> 01:06:57,181
+<i>I dlaczego mnie obudziłeś!</i>
+
+614
+01:06:57,682 --> 01:07:00,309
+Odebrałeś mi życie!
+
+615
+01:07:23,416 --> 01:07:24,918
+<i>Proszę zaczekać.</i>
+
+616
+01:07:25,001 --> 01:07:28,588
+<i>Centrum sterowania apartamentem</i>
+<i>jest restartowane.</i>
+
+617
+01:07:46,898 --> 01:07:50,402
+<i>AWARIA SYSTEMU DIAGNOSTYCZNEGO</i>
+<i>BŁĄD KRYTYCZNY</i>
+
+618
+01:08:03,498 --> 01:08:05,501
+Zazdroszczę ci, Arthurze.
+
+619
+01:08:06,210 --> 01:08:09,295
+- Czego?
+- Masz jakiś cel.
+
+620
+01:08:11,715 --> 01:08:13,592
+Zawsze jesteś szczęśliwy.
+
+621
+01:08:14,092 --> 01:08:15,719
+Jak idzie z książką?
+
+622
+01:08:16,594 --> 01:08:18,889
+Pierwszy raz piszę o sobie.
+
+623
+01:08:18,889 --> 01:08:23,394
+To jeden z moich najlepszych tekstów,
+a sama nie wiem, dlaczego go tworzę.
+
+624
+01:08:24,103 --> 01:08:27,189
+Może go przeczytać tylko człowiek,
+którego nie znoszę.
+
+625
+01:08:27,189 --> 01:08:31,109
+Mówi się,
+że czas leczy rany.
+
+626
+01:08:33,904 --> 01:08:36,698
+Ze złamanym sercem
+nie jest to takie proste.
+
+627
+01:08:38,908 --> 01:08:40,911
+I tak tego nie zrozumiesz.
+
+628
+01:08:48,210 --> 01:08:51,296
+- We wtorki to ja siedzę z Arthurem.
+- Mamy środę.
+
+629
+01:08:59,387 --> 01:09:00,596
+Proszę bardzo.
+
+630
+01:09:09,898 --> 01:09:12,109
+Co pijesz?
+Whiskey?
+
+631
+01:09:13,109 --> 01:09:14,403
+Kawę.
+
+632
+01:09:14,610 --> 01:09:18,282
+<i>Kochamy cię, Auroro!</i>
+<i>Co my bez ciebie zrobimy?</i>
+
+633
+01:09:21,409 --> 01:09:24,078
+<i>- Najodważniejsza!</i>
+<i>- Cześć, Aurora!</i>
+
+634
+01:09:24,412 --> 01:09:28,082
+<i>Obiecuję, że codziennie</i>
+<i>będę o tobie myśleć.</i>
+
+635
+01:09:28,082 --> 01:09:33,087
+<i>Nie będę już żyła, kiedy się obudzisz,</i>
+<i>ale nigdy cię nie zapomnę.</i>
+
+636
+01:09:33,881 --> 01:09:36,300
+<i>Jesteś moją</i>
+<i>najlepszą przyjaciółką.</i>
+
+637
+01:09:36,716 --> 01:09:39,386
+<i>Wiem, że w domu</i>
+<i>nie byłaś szczęśliwa.</i>
+
+638
+01:09:39,595 --> 01:09:42,389
+<i>Nie mogłaś się</i>
+<i>zadowolić życiem.</i>
+
+639
+01:09:43,390 --> 01:09:47,895
+<i>Nie musisz lecieć.</i>
+<i>Mogłabyś przeżyć wszystko tutaj.</i>
+
+640
+01:09:50,605 --> 01:09:55,109
+<i>Skoro i tak lecisz,</i>
+<i>powiem ci, czego ci życzę.</i>
+
+641
+01:09:57,488 --> 01:10:01,699
+<i>Obyś w końcu znalazła kogoś,</i>
+<i>kto wypełni twoje serce miłością.</i>
+
+642
+01:10:02,408 --> 01:10:04,994
+<i>I obyś to odwzajemniła.</i>
+
+643
+01:10:05,912 --> 01:10:10,583
+<i>Zrozum, że nie musisz robić</i>
+<i>wielkich rzeczy, by być szczęśliwą.</i>
+
+644
+01:10:12,293 --> 01:10:15,005
+<i>Leć.</i>
+<i>Baw się.</i>
+
+645
+01:10:15,713 --> 01:10:17,298
+<i>Ryzykuj.</i>
+
+646
+01:10:19,217 --> 01:10:21,095
+<i>Tyle.</i>
+
+647
+01:10:22,387 --> 01:10:24,305
+<i>Kocham cię, Auroro.</i>
+
+648
+01:10:24,681 --> 01:10:26,015
+<i>Pa.</i>
+
+649
+01:10:28,894 --> 01:10:30,604
+Dzień dobry, Arthurze!
+
+650
+01:10:30,895 --> 01:10:32,814
+- Kawę poproszę.
+- Robi się.
+
+651
+01:10:38,695 --> 01:10:40,905
+Dlaczego brudzisz mój stołek?
+
+652
+01:10:40,988 --> 01:10:43,408
+Trzeba się upaprać,
+żeby skończyć robotę.
+
+653
+01:10:44,118 --> 01:10:47,078
+- A cóż takiego robiłeś?
+- Ulepszenia.
+
+654
+01:10:48,079 --> 01:10:50,082
+<i>Wielka Hala.</i>
+
+655
+01:11:17,317 --> 01:11:18,694
+<i>Pierwsze piętro.</i>
+
+656
+01:11:31,789 --> 01:11:33,917
+<i>Śniadanie dla klasy złotej.</i>
+
+657
+01:11:49,807 --> 01:11:52,685
+<i>Mówi starszy mechanik</i>
+<i>Gus Mancuso.</i>
+
+658
+01:11:53,311 --> 01:11:56,606
+<i>Kto do cholery</i>
+<i>posadził mi drzewo na pokładzie?</i>
+
+659
+01:12:17,920 --> 01:12:20,381
+- Kto to zrobił?
+- Ja.
+
+660
+01:12:20,506 --> 01:12:22,591
+- Czyli?
+- Jim Preston.
+
+661
+01:12:24,592 --> 01:12:26,095
+Aurora Lane.
+
+662
+01:12:26,302 --> 01:12:29,180
+- Ktoś jeszcze się wybudził?
+- Tylko ja i on.
+
+663
+01:12:29,597 --> 01:12:33,310
+- Jak daleko zalecieliśmy?
+- Zostało 88 lat.
+
+664
+01:12:41,819 --> 01:12:44,613
+Awaria hibernacji.
+
+665
+01:12:44,988 --> 01:12:50,118
+Ponoć miały się nie zdarzać,
+a przytrafiły się nam już trzy.
+
+666
+01:12:55,289 --> 01:12:58,002
+Nawet nie wiesz,
+jak długo próbowałem tu wejść.
+
+667
+01:12:58,002 --> 01:13:00,587
+Może więc
+niczego nie dotykaj.
+
+668
+01:13:00,587 --> 01:13:02,213
+Tu pracujesz?
+
+669
+01:13:02,296 --> 01:13:05,509
+Nie, to dla załogi pokładowej.
+Ja jestem z maszynowni.
+
+670
+01:13:05,591 --> 01:13:08,220
+Mostek, nawigacja.
+
+671
+01:13:10,596 --> 01:13:12,890
+<i>Brak autoryzacji.</i>
+
+672
+01:13:13,891 --> 01:13:15,394
+Przepraszam.
+
+673
+01:13:17,186 --> 01:13:20,399
+Jeśli dobrze widzę,
+jesteśmy na kursie.
+
+674
+01:13:20,399 --> 01:13:23,193
+Coś się dzieje ze statkiem,
+ale nie z nawigacją.
+
+675
+01:13:23,193 --> 01:13:26,404
+- Coś się dzieje?
+- Trzy awarie komór. Owszem.
+
+676
+01:13:26,488 --> 01:13:29,490
+Coś jest nie tak.
+Pytanie tylko co.
+
+677
+01:13:31,618 --> 01:13:33,203
+Dziwne.
+
+678
+01:13:33,494 --> 01:13:37,791
+Powinna się tu wyświetlać diagnostyka,
+a pokazuje brak danych.
+
+679
+01:13:39,585 --> 01:13:41,295
+Trzeba sprawdzić ręcznie.
+
+680
+01:13:41,502 --> 01:13:45,006
+- Może zawróćmy na Ziemię.
+- Przy połowie prędkości światła?
+
+681
+01:13:45,090 --> 01:13:47,384
+Zajęłoby to tyle,
+ile dotychczasowy lot.
+
+682
+01:13:47,384 --> 01:13:51,805
+- Ale coś chyba można zrobić!
+- Przykro mi, lecimy do celu.
+
+683
+01:13:54,515 --> 01:13:57,895
+- Dobrze się czujesz?
+- Jak to po hibernacji.
+
+684
+01:13:58,395 --> 01:13:59,896
+Cały czas to mam.
+
+685
+01:14:00,189 --> 01:14:01,981
+<i>Wielka Hala.</i>
+
+686
+01:14:02,190 --> 01:14:05,402
+Dwa lata, tak?
+Posadziłeś więcej drzew?
+
+687
+01:14:05,903 --> 01:14:07,195
+Uwaga!
+
+688
+01:14:11,783 --> 01:14:15,287
+- Tego jeszcze nie widziałem.
+- Te robociki się psują.
+
+689
+01:14:15,287 --> 01:14:17,997
+Razem z tym
+będzie piętnaście.
+
+690
+01:14:18,707 --> 01:14:21,292
+- Piętnaście.
+- Bufet śniadaniowy dziś oszalał.
+
+691
+01:14:21,292 --> 01:14:22,293
+I winda.
+
+692
+01:14:22,293 --> 01:14:25,381
+Ostatnio zepsuły mi się drzwi.
+Dwa dni nie mogłam wyjść.
+
+693
+01:14:25,506 --> 01:14:27,298
+Naprawdę?
+
+694
+01:14:27,298 --> 01:14:30,511
+Takie rzeczy się nie zdarzają.
+Nie na tym statku.
+
+695
+01:14:30,594 --> 01:14:33,680
+Takich stacji jest 60
+na każdym pokładzie.
+
+696
+01:14:33,805 --> 01:14:35,599
+Tak się zakłada.
+
+697
+01:14:35,599 --> 01:14:37,893
+Reszta zrobi się sama.
+Jasne?
+
+698
+01:14:39,019 --> 01:14:41,396
+Idź na pokłady 1 i 2,
+a ty na 3 i 4.
+
+699
+01:14:41,479 --> 01:14:45,400
+Ja idę na pokład hibernacyjny,
+żeby sprawdzić nasze komory.
+
+700
+01:14:45,900 --> 01:14:47,694
+Zrobi się ciekawie.
+
+701
+01:14:58,204 --> 01:15:02,417
+- Nie powinieneś szukać stacji?
+- Już skończyłem.
+
+702
+01:15:05,087 --> 01:15:07,296
+Sprawdziłem twoją komorę.
+
+703
+01:15:07,881 --> 01:15:10,509
+Prosta przyczyna:
+awaria zegara.
+
+704
+01:15:10,591 --> 01:15:13,386
+Nie powinno się tak stać,
+ale przyczyna jest jasna.
+
+705
+01:15:13,386 --> 01:15:15,096
+U mnie było gorzej.
+
+706
+01:15:15,096 --> 01:15:19,893
+Wiele jednoczesnych awarii systemu.
+Komputery oszalały.
+
+707
+01:15:22,104 --> 01:15:24,398
+Dlatego też tak źle się czuję.
+
+708
+01:15:24,398 --> 01:15:26,692
+Komora Aurory natomiast...
+
+709
+01:15:29,903 --> 01:15:31,404
+Ty to zrobiłeś.
+
+710
+01:15:34,115 --> 01:15:35,117
+Tak.
+
+711
+01:15:35,117 --> 01:15:40,079
+Myślałem, że masz cholerne szczęście,
+że utknąłeś tu akurat z nią.
+
+712
+01:15:42,498 --> 01:15:46,002
+- Ale to nie był zbieg okoliczności.
+- Nie.
+
+713
+01:15:46,295 --> 01:15:49,006
+- Wie o tym?
+- Tak.
+
+714
+01:15:51,216 --> 01:15:54,219
+- Jak długo byłeś sam?
+- Rok.
+
+715
+01:15:58,097 --> 01:15:59,891
+Ale i tak...
+
+716
+01:16:01,185 --> 01:16:02,685
+Cholera.
+
+717
+01:16:21,079 --> 01:16:22,997
+Jak w innych.
+
+718
+01:16:23,498 --> 01:16:25,417
+Wszystko się wyłącza.
+
+719
+01:16:25,583 --> 01:16:28,295
+Wszędzie.
+Kompletnie niezależnie od siebie.
+
+720
+01:16:29,880 --> 01:16:33,384
+- Widziałeś komory hibernacyjne?
+- Owszem.
+
+721
+01:16:35,594 --> 01:16:39,390
+Czyli wiesz,
+co zrobił Jim.
+
+722
+01:16:42,393 --> 01:16:44,019
+Wiem.
+
+723
+01:16:44,686 --> 01:16:46,814
+- I co?
+- To nie moja...
+
+724
+01:16:46,896 --> 01:16:48,899
+On mnie obudził!
+
+725
+01:16:49,108 --> 01:16:51,694
+- Odebrał mi życie!
+- Wiem i bardzo mi przykro.
+
+726
+01:16:51,819 --> 01:16:54,779
+- Ale mam tu pracę...
+- To morderstwo!
+
+727
+01:16:57,408 --> 01:16:58,783
+Masz rację.
+
+728
+01:16:58,992 --> 01:17:02,704
+Ale tonący zawsze
+ciągnie drugiego człowieka w dół.
+
+729
+01:17:02,704 --> 01:17:06,917
+Tak się nie powinno robić,
+ale sytuacja to wymusza.
+
+730
+01:17:07,292 --> 01:17:09,586
+Mam tu szesnastego.
+
+731
+01:17:17,094 --> 01:17:18,679
+Dobrze się czujesz?
+
+732
+01:17:20,389 --> 01:17:22,890
+- Powinieneś odpoczywać.
+- No tak.
+
+733
+01:17:23,600 --> 01:17:27,979
+Ale tylko na parę godzin.
+Rano od razu tu wracam.
+
+734
+01:18:20,908 --> 01:18:23,993
+<i>BRAK GRAWITACJI</i>
+
+735
+01:19:32,186 --> 01:19:34,689
+<i>GRAWITACJA</i>
+
+736
+01:20:15,189 --> 01:20:17,983
+- Pływałam, kiedy to się stało!
+- Nic ci nie jest?
+
+737
+01:20:17,983 --> 01:20:20,694
+Musimy znaleźć Gusa.
+
+738
+01:20:23,780 --> 01:20:27,201
+Awaria tego systemu oznacza,
+że mamy poważny problem.
+
+739
+01:20:27,201 --> 01:20:28,493
+Jest źle.
+
+740
+01:20:29,494 --> 01:20:33,998
+Awarie wynikają z przeciążenia.
+Jakby systemy pracowały zbyt intensywnie.
+
+741
+01:20:34,416 --> 01:20:36,001
+Dlaczego?
+
+742
+01:20:36,502 --> 01:20:39,003
+Komputer, wyświetl awarie
+na osi czasu.
+
+743
+01:20:39,087 --> 01:20:40,881
+<i>Tworzenie osi czasu...</i>
+
+744
+01:20:42,591 --> 01:20:44,217
+Procesy kaskadowe.
+
+745
+01:20:45,301 --> 01:20:48,596
+Zaczęło się dwa lata temu.
+Nagły wzrost poboru mocy.
+
+746
+01:20:48,596 --> 01:20:50,807
+17 awarii jednego dnia.
+
+747
+01:20:51,516 --> 01:20:54,603
+- W tym komora hibernacyjna 1498.
+- Czyli moja.
+
+748
+01:20:55,395 --> 01:20:56,979
+To mnie obudziło.
+
+749
+01:20:58,606 --> 01:21:01,193
+- Co się stało?
+- Coś poważnego.
+
+750
+01:21:01,193 --> 01:21:03,904
+Wysiadł jeden
+z głównych systemów.
+
+751
+01:21:04,195 --> 01:21:07,783
+Pozostałe starały się to skompensować,
+ale nie dały rady.
+
+752
+01:21:07,990 --> 01:21:10,993
+Musimy znaleźć pierwotną przyczynę
+i dokonać napraw.
+
+753
+01:21:10,993 --> 01:21:13,079
+Jak to się może skończyć?
+
+754
+01:21:13,788 --> 01:21:17,417
+- Analiza ryzyka na podstawie tych danych.
+<i>- Szacowanie...</i>
+
+755
+01:21:17,917 --> 01:21:20,378
+<i>Nieunikniony błąd krytyczny.</i>
+
+756
+01:21:20,378 --> 01:21:23,716
+<i>W systemach:</i>
+<i>podtrzymywanie życia, reaktor fuzyjny...</i>
+
+757
+01:21:23,798 --> 01:21:25,384
+Czyli utknęliśmy...
+
+758
+01:21:25,384 --> 01:21:26,801
+<i>Napęd jonowy.</i>
+
+759
+01:21:26,801 --> 01:21:28,302
+na tonącym statku.
+
+760
+01:21:37,186 --> 01:21:38,896
+<i>Maszynownia.</i>
+
+761
+01:21:39,105 --> 01:21:42,400
+Niewiele rzeczy
+może spowodować takie uszkodzenia.
+
+762
+01:21:44,987 --> 01:21:48,407
+Diagnostyka nie działa,
+więc sami musimy znaleźć przyczynę.
+
+763
+01:21:48,407 --> 01:21:50,199
+Gdzie zaczynamy?
+
+764
+01:21:55,997 --> 01:21:59,501
+<i>Zakończono skanowanie.</i>
+<i>Analiza...</i>
+
+765
+01:21:59,501 --> 01:22:01,587
+<i>WYKRYTE CHOROBY</i>
+
+766
+01:22:02,796 --> 01:22:05,882
+- Co mi jest?
+- Parę spraw.
+
+767
+01:22:06,091 --> 01:22:08,385
+<i>Wykryto 612 chorób.</i>
+
+768
+01:22:09,219 --> 01:22:10,595
+Wypuść mnie stąd.
+
+769
+01:22:25,194 --> 01:22:26,694
+Jakie są prognozy?
+
+770
+01:22:26,819 --> 01:22:30,990
+<i>Choroby terminalne omawia się</i>
+<i>w obecności lekarza.</i>
+
+771
+01:22:31,199 --> 01:22:34,787
+Upoważnienie 2317.
+
+772
+01:22:35,203 --> 01:22:38,289
+- To co mi jest?
+<i>- Martwica ogólnoustrojowa.</i>
+
+773
+01:22:38,498 --> 01:22:41,502
+<i>Niewydolność wielonarządowa.</i>
+<i>Przyczyna nieznana.</i>
+
+774
+01:22:41,502 --> 01:22:44,087
+Wszystko przez to
+wariowanie komory hibernacyjnej.
+
+775
+01:22:44,296 --> 01:22:47,006
+- Jak to wyleczyć?
+<i>- Istnieje wiele metod.</i>
+
+776
+01:22:47,298 --> 01:22:50,719
+<i>Żadna jednak znacząco</i>
+<i>nie wydłuży życia pacjenta.</i>
+
+777
+01:22:53,389 --> 01:22:57,393
+- Ile czasu mi zostało?
+<i>- Pańskie życia już dobiega końca.</i>
+
+778
+01:22:58,685 --> 01:23:03,189
+<i>Te środki złagodzą cierpienie</i>
+<i>w ostatnich godzinach.</i>
+
+779
+01:23:26,796 --> 01:23:28,798
+Dajcie mi chwilę.
+
+780
+01:23:58,119 --> 01:24:01,497
+<i>Uwaga, nasz lot</i>
+<i>ma pewne kłopoty.</i>
+
+781
+01:24:03,082 --> 01:24:07,296
+- Gdzie on jest?!
+<i>- Prosimy niezwłocznie udać się do kajut.</i>
+
+782
+01:24:17,597 --> 01:24:19,600
+Mogłem wziąć te cholerne pigułki.
+
+783
+01:24:20,391 --> 01:24:22,603
+- Pójdę po nie.
+- Zostań.
+
+784
+01:24:24,395 --> 01:24:25,980
+Usiądź.
+
+785
+01:24:30,402 --> 01:24:32,695
+Dbajcie o siebie.
+
+786
+01:24:41,997 --> 01:24:44,291
+Mój identyfikator.
+
+787
+01:24:45,292 --> 01:24:48,295
+Da wam dostęp wszędzie,
+gdzie trzeba.
+
+788
+01:24:48,878 --> 01:24:51,297
+Naprawcie statek.
+
+789
+01:24:51,798 --> 01:24:54,717
+Znajdźcie przyczynę
+tych awarii.
+
+790
+01:24:57,095 --> 01:25:01,100
+- Jak wyglądam?
+- Wspaniale.
+
+791
+01:25:02,393 --> 01:25:05,979
+Za mundurem panny sznurem.
+
+792
+01:25:14,195 --> 01:25:15,279
+Co teraz?
+
+793
+01:25:22,578 --> 01:25:23,997
+Niedobrze.
+
+794
+01:25:27,292 --> 01:25:30,878
+- Wracam do maszynowni.
+- Zdołasz to naprawić?
+
+795
+01:25:31,296 --> 01:25:32,881
+Musisz mi pomóc.
+
+796
+01:25:36,092 --> 01:25:37,386
+Idziemy!
+
+797
+01:26:16,800 --> 01:26:18,301
+Dalej!
+
+798
+01:26:21,596 --> 01:26:23,390
+<i>Maszynownia.</i>
+
+799
+01:26:23,599 --> 01:26:26,685
+- Może obudzimy załogę?
+- Nie zdążą dojść do siebie.
+
+800
+01:26:26,685 --> 01:26:29,688
+- Nie ma czasu.
+- Czego w ogóle szukamy?
+
+801
+01:26:30,396 --> 01:26:33,399
+Przyczyny awarii.
+Czegoś dużego.
+
+802
+01:26:34,193 --> 01:26:35,819
+Chodź!
+
+803
+01:26:37,279 --> 01:26:39,405
+- Zepsuło się?
+- Chyba nie.
+
+804
+01:26:39,698 --> 01:26:42,618
+- Co teraz?
+- Zasilanie. Tędy.
+
+805
+01:26:48,707 --> 01:26:50,292
+No dalej!
+
+806
+01:26:50,792 --> 01:26:54,296
+- Coś jest nie tak. Zamknęło sekcję.
+- Tego szukamy.
+
+807
+01:26:54,296 --> 01:26:56,090
+Spróbuj się tam dostać.
+
+808
+01:27:07,184 --> 01:27:08,601
+<i>Uwaga.</i>
+
+809
+01:27:09,103 --> 01:27:12,689
+<i>Uruchomiono blokadę śluzy.</i>
+
+810
+01:27:14,983 --> 01:27:16,902
+<i>Proszę zamknąć grodzie.</i>
+
+811
+01:27:16,902 --> 01:27:18,779
+Trzymaj się!
+
+812
+01:27:20,698 --> 01:27:25,703
+<i>Uwaga, zbyt niski poziom tlenu.</i>
+<i>Proszę zamknąć grodzie.</i>
+
+813
+01:27:43,595 --> 01:27:44,805
+Łap!
+
+814
+01:27:51,895 --> 01:27:54,398
+<i>Wyrównywanie ciśnienia nieudane.</i>
+
+815
+01:28:03,282 --> 01:28:05,492
+<i>Ciśnienie wyrównane.</i>
+
+816
+01:28:06,118 --> 01:28:09,997
+<i>Poziom tlenu w normie.</i>
+<i>Koniec blokady.</i>
+
+817
+01:28:10,079 --> 01:28:12,791
+Dziura w kadłubie.
+
+818
+01:28:14,792 --> 01:28:16,795
+Jest ich więcej.
+
+819
+01:28:19,590 --> 01:28:24,219
+- Ale jak? Statek miał wytrzymać wszystko!
+- Jakaś skała się przebiła.
+
+820
+01:28:32,019 --> 01:28:33,686
+Gorąco!
+
+821
+01:28:39,984 --> 01:28:43,113
+Chyba znaleźliśmy
+źródło problemu.
+
+822
+01:28:51,704 --> 01:28:54,291
+To komputer sterujący reaktorem.
+
+823
+01:29:00,005 --> 01:29:01,798
+Tu dostaliśmy
+dwa lata temu.
+
+824
+01:29:03,716 --> 01:29:05,094
+Jak to naprawić?
+
+825
+01:29:09,097 --> 01:29:12,393
+- Umrzemy tu.
+- Do wszystkiego są części zamienne.
+
+826
+01:29:16,479 --> 01:29:18,481
+- Poświeć mi!
+- Przepraszam.
+
+827
+01:29:20,984 --> 01:29:25,197
+- Wyciągnę to i komputer się wyłączy.
+- I co potem?
+
+828
+01:29:26,907 --> 01:29:29,283
+Uruchomię go tak szybko,
+jak zdołam.
+
+829
+01:29:33,497 --> 01:29:34,997
+Szybciej!
+
+830
+01:29:41,087 --> 01:29:43,798
+<i>Przywrócono komputer sterujący.</i>
+
+831
+01:29:44,591 --> 01:29:46,510
+<i>Chłodzenie reaktora.</i>
+
+832
+01:29:48,302 --> 01:29:51,097
+- Przecież to naprawiliśmy!
+<i>- Awaria systemu wentylacyjnego.</i>
+
+833
+01:29:51,180 --> 01:29:53,600
+<i>Wymagana ręczna kontrola.</i>
+
+834
+01:29:58,980 --> 01:30:01,899
+<i>- Operacja zakończona niepowodzeniem.</i>
+- No nie!
+
+835
+01:30:06,697 --> 01:30:09,699
+<i>- Zewnętrzne wrota nie reagują.</i>
+- Czyli co?
+
+836
+01:30:12,202 --> 01:30:13,996
+Zacięły się.
+
+837
+01:30:14,078 --> 01:30:17,916
+Trzeba je otworzyć i schłodzić reaktor,
+bo inaczej statek wybuchnie.
+
+838
+01:30:17,916 --> 01:30:20,418
+- Ale jak?
+- Muszę wyjść.
+
+839
+01:30:20,418 --> 01:30:22,087
+Otworzę je od zewnątrz.
+
+840
+01:30:22,880 --> 01:30:27,509
+Otworzę drzwi i oddalę się,
+a ty wywalisz ten ogień w kosmos.
+
+841
+01:30:27,592 --> 01:30:30,304
+- Słucham?
+- Masz mi wszystko mówić.
+
+842
+01:30:30,304 --> 01:30:33,097
+A co będzie z tobą
+po otwarciu tych wrót?
+
+843
+01:30:42,899 --> 01:30:45,402
+Będę miał tarczę.
+Może wytrzyma.
+
+844
+01:30:53,702 --> 01:30:55,287
+Przyda ci się.
+
+845
+01:31:08,884 --> 01:31:10,594
+Wszystko będzie dobrze.
+
+846
+01:31:20,186 --> 01:31:21,396
+Idę.
+
+847
+01:31:32,282 --> 01:31:33,992
+Wróć do mnie.
+
+848
+01:31:35,618 --> 01:31:37,704
+Bez ciebie
+nie dam rady tu żyć.
+
+849
+01:32:03,396 --> 01:32:05,815
+<i>Uwaga.</i>
+<i>Krytyczna temperatura.</i>
+
+850
+01:32:19,287 --> 01:32:20,997
+Co się dzieje?
+
+851
+01:32:21,497 --> 01:32:23,417
+<i>Nic ci nie jest?!</i>
+
+852
+01:32:23,417 --> 01:32:25,793
+- Nic, szybciej!
+<i>- Na pewno?</i>
+
+853
+01:32:25,793 --> 01:32:27,296
+<i>Tak.</i>
+
+854
+01:32:35,095 --> 01:32:36,805
+Jestem w kanale.
+
+855
+01:32:37,680 --> 01:32:40,184
+<i>Nowe gniazdo.</i>
+<i>Przepięcie.</i>
+
+856
+01:32:43,895 --> 01:32:45,104
+Widzę wrota.
+
+857
+01:32:46,314 --> 01:32:47,899
+<i>Wzrost temperatury.</i>
+
+858
+01:32:55,407 --> 01:32:57,993
+<i>Uwaga.</i>
+<i>Krytyczna temperatura.</i>
+
+859
+01:33:04,207 --> 01:33:06,502
+<i>Utrata stabilności.</i>
+
+860
+01:33:07,795 --> 01:33:10,005
+- Gdzie jesteś?
+- Przy wrotach.
+
+861
+01:33:10,005 --> 01:33:12,298
+<i>- Jestem gotowa, mów kiedy.</i>
+- Już.
+
+862
+01:33:16,302 --> 01:33:19,097
+Wrota się nie otwierają.
+Muszę ominąć blokadę.
+
+863
+01:33:21,391 --> 01:33:23,310
+<i>Wzrost temperatury.</i>
+
+864
+01:33:24,395 --> 01:33:27,314
+<i>Szybciej, Jim!</i>
+<i>Proszę!</i>
+
+865
+01:33:27,605 --> 01:33:30,400
+- Spróbuję znowu.
+<i>- Powiedz, jak wyjdziesz.</i>
+
+866
+01:33:34,697 --> 01:33:36,614
+- Nie!
+- Co jest?
+
+867
+01:33:37,408 --> 01:33:38,701
+Co się dzieje?!
+
+868
+01:33:46,000 --> 01:33:48,292
+Wrota nie chcą
+pozostać otwarte.
+
+869
+01:33:49,293 --> 01:33:52,506
+Będę musiał tu zostać
+<i>i je trzymać.</i>
+
+870
+01:33:54,007 --> 01:33:56,301
+Nie!
+<i>Wychodź stamtąd!</i>
+
+871
+01:33:56,801 --> 01:33:58,095
+Nie mogę.
+
+872
+01:34:00,014 --> 01:34:01,305
+Nie mamy już czasu.
+
+873
+01:34:02,890 --> 01:34:04,393
+<i>Utrata stabilności.</i>
+
+874
+01:34:12,400 --> 01:34:13,402
+Zrób to.
+
+875
+01:34:19,992 --> 01:34:22,493
+<i>Nie rozumiesz!</i>
+
+876
+01:34:23,412 --> 01:34:25,913
+<i>Zabiję cię,</i>
+<i>jeśli to zrobię!</i>
+
+877
+01:34:25,997 --> 01:34:29,001
+- Otwieram.
+- Wracaj, wymyślimy coś innego!
+
+878
+01:34:29,001 --> 01:34:30,293
+<i>Nie ma innych opcji.</i>
+
+879
+01:34:34,297 --> 01:34:35,798
+- To nic.
+- Nieprawda!
+
+880
+01:34:36,800 --> 01:34:39,219
+<i>Krytyczna temperatura przekroczona.</i>
+
+881
+01:34:39,302 --> 01:34:41,095
+Nie tak miało być!
+
+882
+01:34:42,597 --> 01:34:46,100
+- Statek wybuchnie, Auroro.
+- I co z tego! Umrzemy razem!
+
+883
+01:34:47,101 --> 01:34:50,104
+Jest tu jeszcze
+5000 innych osób.
+
+884
+01:34:51,398 --> 01:34:52,399
+Tak trzeba.
+
+885
+01:34:53,692 --> 01:34:55,402
+<i>Maksymalne ciśnienie.</i>
+
+886
+01:34:59,198 --> 01:35:00,990
+Zrób to.
+
+887
+01:35:02,493 --> 01:35:04,703
+<i>Maksymalne ciśnienie.</i>
+
+888
+01:35:26,391 --> 01:35:27,810
+<i>Spadek temperatury.</i>
+
+889
+01:35:49,997 --> 01:35:54,002
+<i>Operacja zakończona powodzeniem.</i>
+<i>Ponowne uruchamianie...</i>
+
+890
+01:35:54,002 --> 01:35:56,296
+Powiedz coś, Jim.
+
+891
+01:36:32,498 --> 01:36:35,002
+<i>Spadek ciśnienia w skafandrze.</i>
+
+892
+01:36:37,712 --> 01:36:40,591
+<i>Proszę natychmiast wrócić</i>
+<i>na pokład.</i>
+
+893
+01:36:44,802 --> 01:36:47,514
+Udało się!
+Możesz wracać!
+
+894
+01:36:48,306 --> 01:36:51,894
+- Co do tego powrotu...
+- Co się dzieje, jesteś ranny?
+
+895
+01:36:52,394 --> 01:36:55,104
+<i>- Wyrzuciło mnie w przestrzeń.</i>
+- Co?!
+
+896
+01:36:55,104 --> 01:36:58,192
+<i>Kabel się zerwał.</i>
+Nie mogę wrócić na pokład.
+
+897
+01:36:58,900 --> 01:37:00,819
+Wyjdę i cię wciągnę!
+
+898
+01:37:00,903 --> 01:37:03,697
+<i>Uwaga,</i>
+<i>krytyczny poziom tlenu.</i>
+
+899
+01:37:03,697 --> 01:37:06,199
+<i>Proszę natychmiast wrócić</i>
+<i>na pokład.</i>
+
+900
+01:37:14,500 --> 01:37:17,293
+Przepraszam, Auroro.
+
+901
+01:37:19,003 --> 01:37:21,798
+- Za wszystko.
+- Zamknij się! Już idę.
+
+902
+01:37:22,507 --> 01:37:26,595
+<i>Żałuję, że nie poznaliśmy się</i>
+<i>90 lat w przyszłości.</i>
+
+903
+01:37:31,891 --> 01:37:35,104
+Bo zbudowałbym ci dom.
+
+904
+01:37:39,692 --> 01:37:41,902
+Przeczytał twoją książkę.
+
+905
+01:37:44,195 --> 01:37:46,114
+Byłoby świetnie.
+
+906
+01:37:58,292 --> 01:38:02,797
+<i>- Skafander został przywiązany.</i>
+- Gdzie jest Jim Preston?
+
+907
+01:38:06,010 --> 01:38:08,302
+<i>Znaleziono.</i>
+
+908
+01:38:09,595 --> 01:38:11,305
+Idę po ciebie.
+
+909
+01:39:37,393 --> 01:39:39,603
+<i>Przykro mi.</i>
+<i>Pacjent nie żyje.</i>
+
+910
+01:39:39,811 --> 01:39:41,104
+No to reanimuj!
+
+911
+01:39:41,313 --> 01:39:44,692
+<i>Wymagana zgoda</i>
+<i>członka personelu medycznego.</i>
+
+912
+01:39:44,692 --> 01:39:46,609
+Nie!
+
+913
+01:39:54,702 --> 01:39:56,994
+Upoważniam cię!
+
+914
+01:39:57,203 --> 01:40:00,498
+Upoważnienie 17...
+
+915
+01:40:02,001 --> 01:40:05,295
+2...
+
+916
+01:40:07,213 --> 01:40:10,091
+2317!
+Upoważnienie 2317!
+
+917
+01:40:13,302 --> 01:40:14,805
+<i>RESUSCYTACJA</i>
+
+918
+01:40:17,807 --> 01:40:21,185
+<i>- Nie zaleca się tylu procedur naraz.</i>
+- Upoważniam cię!
+
+919
+01:40:21,310 --> 01:40:22,813
+Szybciej!
+
+920
+01:40:22,895 --> 01:40:24,605
+<i>Wykonywanie.</i>
+
+921
+01:41:56,407 --> 01:42:00,202
+- Uratowałaś mnie.
+- Tak.
+
+922
+01:42:24,309 --> 01:42:26,520
+- Dziękuję.
+- Nie ruszaj się.
+
+923
+01:42:26,603 --> 01:42:28,104
+Oczywiście.
+
+924
+01:43:13,192 --> 01:43:15,194
+Muszę ci coś pokazać.
+
+925
+01:43:15,402 --> 01:43:21,199
+Dzięki identyfikatorowi komora medyczna
+może wprowadzić pacjenta w uśpienie.
+
+926
+01:43:21,199 --> 01:43:24,203
+Zatrzymując jego
+aktywność metaboliczną.
+
+927
+01:43:25,703 --> 01:43:29,416
+- To znaczy?
+- To pomysł Gusa, coś jak hibernacja.
+
+928
+01:43:29,500 --> 01:43:32,293
+Możesz wrócić do snu
+wewnątrz tej komory.
+
+929
+01:43:36,715 --> 01:43:38,801
+Ale jest tu
+tylko jedna taka.
+
+930
+01:43:42,805 --> 01:43:44,097
+Owszem.
+
+931
+01:43:46,391 --> 01:43:50,395
+Położysz się wewnątrz niej
+i zaśniesz.
+
+932
+01:43:51,396 --> 01:43:55,693
+Obudzisz się na Homestead II
+i napiszesz swoją książkę.
+
+933
+01:43:57,194 --> 01:44:01,198
+Ukończysz swoją podróż.
+Zrobisz to, co sobie zaplanowałaś.
+
+934
+01:44:08,997 --> 01:44:11,000
+A ty zostaniesz sam.
+
+935
+01:44:12,001 --> 01:44:15,712
+Raz już byłem.
+Poradzę sobie.
+
+936
+01:44:17,213 --> 01:44:19,800
+Ale już nigdy cię nie zobaczę.
+
+937
+01:44:22,802 --> 01:44:25,096
+Będę cię odwiedzał.
+
+938
+01:45:07,305 --> 01:45:10,100
+We wtorki to ja
+siedzę z Arthurem.
+
+939
+01:45:11,100 --> 01:45:14,896
+- Jak zwykle: cudownie wyglądasz.
+- Dziękuję, ty również.
+
+940
+01:45:15,104 --> 01:45:16,606
+Dzięki tobie.
+
+941
+01:45:18,108 --> 01:45:19,609
+A to co takiego?
+
+942
+01:45:21,612 --> 01:45:25,114
+Coś, co od dawna
+chciałem ci wręczyć.
+
+943
+01:45:30,996 --> 01:45:32,706
+Jest piękny.
+
+944
+01:45:45,594 --> 01:45:48,096
+Długo się za to zabierałeś.
+
+945
+01:45:50,807 --> 01:45:53,894
+Szampan?
+Oj, zaczekam.
+
+946
+01:46:10,993 --> 01:46:12,996
+Świetne życie.
+
+947
+01:46:15,498 --> 01:46:17,292
+Najlepsze.
+
+948
+01:46:35,394 --> 01:46:39,605
+<i>HOMESTEAD II</i>
+
+949
+01:46:39,605 --> 01:46:46,404
+<i>88 LAT PÓŹNIEJ</i>
+
+950
+01:46:48,407 --> 01:46:51,702
+<i>Zainicjowano proces</i>
+<i>wybudzania załogi.</i>
+
+951
+01:46:52,202 --> 01:46:54,412
+<i>Moi współpasażerowie!</i>
+
+952
+01:46:54,496 --> 01:46:59,501
+<i>Skoro to czytacie, statek Avalon</i>
+<i>osiągnął cel swojej podróży.</i>
+
+953
+01:46:59,710 --> 01:47:01,795
+<i>Wielka Hala.</i>
+
+954
+01:47:02,003 --> 01:47:04,297
+<i>Gdy spaliście,</i>
+<i>wiele się wydarzyło.</i>
+
+955
+01:47:11,596 --> 01:47:13,515
+<i>Nasz przyjaciel rzekł kiedyś:</i>
+
+956
+01:47:13,599 --> 01:47:16,601
+<i>"Jeśli nie jesteś tam,</i>
+<i>gdzie chciałbyś być,</i>
+
+957
+01:47:16,894 --> 01:47:20,605
+<i>to zapominasz korzystać z uroków miejsca,</i>
+<i>w którym jesteś".</i>
+
+958
+01:47:20,898 --> 01:47:23,399
+<i>Zagubiliśmy się po drodze.</i>
+
+959
+01:47:23,900 --> 01:47:26,110
+<i>Odnaleźliśmy siebie nawzajem.</i>
+
+960
+01:47:26,194 --> 01:47:28,113
+<i>I przeżyliśmy nasze życie.</i>
+
+961
+01:47:28,197 --> 01:47:32,408
+<i>Piękne życie.</i>
+<i>Razem.</i>
+
+962
+01:47:35,496 --> 01:47:39,500
+Tłumaczenie: kat
+Korekta: Igloo666
+
+963
+01:47:39,707 --> 01:47:44,296
+.:: GrupaHatak.pl ::.
+
+964
+01:47:46,296 --> 01:47:54,296
+Napisy pobrane i przetworzone programem QNapi
+http://qnapi.github.io
+
